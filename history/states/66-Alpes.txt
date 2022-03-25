@@ -1,0 +1,27 @@
+
+state={
+	id=66
+	name="STATE_66"
+	resources={
+		steel=42.000
+		aluminium=42.000
+	}
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		940 957 2532 8531 10380 15370 15429 15495 19836 19860 19863 19864 20036 
+	}
+	manpower=5642
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

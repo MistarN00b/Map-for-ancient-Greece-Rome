@@ -1,0 +1,21 @@
+state={
+	id=540
+	name="STATE_540"
+	provinces={
+		2251 4368 5712 7967 16710 16727 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+}

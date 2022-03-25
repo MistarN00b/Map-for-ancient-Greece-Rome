@@ -1,0 +1,26 @@
+state={
+	id=662
+	name="STATE_662"
+	provinces={
+		9505 20291 
+	}
+	manpower=32079
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ROR
+		add_core_of = ROR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard=1
+			9505 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			9505 3 
+		}
+	}
+}

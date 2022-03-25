@@ -1,0 +1,26 @@
+state={
+	id=739
+	name="STATE_739"
+	provinces={
+		1694 4216 4573 6981 9280 15666 15692 
+	}
+	manpower=78000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			6981 3 
+		}
+		victory_points = {
+			1694 1 
+		}
+	}
+}

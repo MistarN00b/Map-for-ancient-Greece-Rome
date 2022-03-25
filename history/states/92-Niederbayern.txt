@@ -1,0 +1,32 @@
+
+state={
+	id=92
+	name="STATE_92"
+
+	history={
+		owner=ITA
+		add_core_of=ITA
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points = {
+			6564 2 
+		}
+		victory_points = {
+			1053 5 
+		}
+		victory_points = {
+			7858 1 
+		}
+
+	}
+
+	provinces={
+		1053 3003 5287 5782 6564 7415 7504 7854 8769 14649 14662 14762 
+	}
+	manpower=31000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

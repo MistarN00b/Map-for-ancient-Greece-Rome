@@ -1,0 +1,52 @@
+﻿capital = 680
+
+OOB = "MKE_1936"
+
+set_research_slots = 3
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = ""
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_stability = 0.4
+
+set_war_support = 0.6
+
+set_popularities = {
+	neutrality = 100
+}
+
+set_convoys = 50
+
+#Alexander when united greece
+create_country_leader = {
+	name = "Philip II"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "gfx/leaders/Philip_II.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Philip II"
+	portrait_path = "gfx/leaders/Philip_II.dds"
+	traits = { }
+	skill = 3
+	attack_skill = 4
+    defense_skill = 4
+    planning_skill = 4
+    logistics_skill = 4
+}
+

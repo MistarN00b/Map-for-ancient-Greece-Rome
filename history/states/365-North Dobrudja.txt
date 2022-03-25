@@ -1,0 +1,31 @@
+
+state={
+	id=365
+	name="STATE_365"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+			210 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = {
+			3820 5 
+		}
+		victory_points = {
+			15126 1 
+		}
+	}
+
+	provinces={
+		210 471 3820 4396 6012 15094 15124 15126 15164 
+	}
+	manpower=34000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

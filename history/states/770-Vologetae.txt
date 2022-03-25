@@ -1,0 +1,22 @@
+
+state={
+	id=770
+	name="STATE_770"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		4786 7799 11173 11185 15459 15485 15505 15564 15572 19827 19831 
+	}
+	manpower=34421
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

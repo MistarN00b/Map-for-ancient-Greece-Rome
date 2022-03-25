@@ -1,0 +1,22 @@
+
+state={
+	id=125
+	name="STATE_125"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		546 3170 3189 3921 4443 5234 5627 6570 8363 8876 9912 11283 11634 16864 16867 16895 16906 16932 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

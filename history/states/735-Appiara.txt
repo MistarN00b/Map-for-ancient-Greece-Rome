@@ -1,0 +1,27 @@
+state={
+	id=735
+	name="STATE_735"
+	provinces={
+		785 4432 4487 5148 8812 8993 11520 15519 15558 15586 
+	}
+	manpower=89000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = MOE
+		add_core_of = MOE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory=1
+
+		}
+		victory_points = {
+			785 5 
+		}
+		victory_points = {
+			15519 3 
+		}
+	}
+}

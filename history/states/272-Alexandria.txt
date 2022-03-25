@@ -1,0 +1,40 @@
+
+state={
+	id=272
+	name="STATE_272"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 1
+			16890 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			16890 20 
+		}
+		victory_points = {
+			7391 1 
+		}
+		victory_points = {
+			3968 1 
+		}
+		victory_points = {
+			3214 1 
+		}
+
+	}
+
+	provinces={
+		3127 3214 4306 6176 9144 16890 20328 
+	}
+	manpower=279354
+	buildings_max_level_factor=1.000
+	state_category=city
+}

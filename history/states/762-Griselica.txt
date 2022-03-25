@@ -1,0 +1,23 @@
+state={
+	id=762
+	name="STATE_762"
+	provinces={
+		4382 7419 10114 11601 15631 15664 19991 20017 20018 20020 20025 20027 
+	}
+	manpower=39333
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+			arms_factory=1
+		}
+		victory_points={
+			4382 5
+		}
+	}
+}

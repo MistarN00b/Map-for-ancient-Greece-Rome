@@ -1,0 +1,27 @@
+
+state={
+	id=237
+	name="STATE_237"
+
+	history={
+		owner=ALG
+		add_core_of=ALG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			1262 = { naval_base=1}
+
+		}
+		victory_points = {
+			1262 3 
+		}
+
+	}
+
+	provinces={
+		1262 3066 3795 4293 4551 5449 5887 8062 10978 16801 
+	}
+	manpower=42764
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

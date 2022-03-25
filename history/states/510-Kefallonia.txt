@@ -1,0 +1,25 @@
+state={
+	id=510
+	name="Kefallonia"
+	provinces={
+		1047 11528 17362 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = AEO
+		add_core_of = AEO
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 2
+
+		}
+		victory_points = {
+			11528 5 
+		}
+	}
+}

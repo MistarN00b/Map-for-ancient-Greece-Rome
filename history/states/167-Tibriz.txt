@@ -1,0 +1,32 @@
+
+state={
+	id=167
+	name="STATE_167"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points={
+			2712 5
+		}
+		victory_points={
+			10331 3
+		}
+		victory_points={
+			6616 2
+		}
+
+	}
+
+	provinces={
+		182 1196 1564 1597 1660 1731 2712 2877 3563 5105 6616 7240 9161 9910 10331 11142 15530 
+	}
+	manpower=58541
+	buildings_max_level_factor=1.000
+	state_category=town
+}

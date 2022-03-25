@@ -1,0 +1,25 @@
+state={
+	id=726
+	name="STATE_726"
+	provinces={
+		5379 16405 
+	}
+	manpower=62000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ELA
+		add_core_of = ELA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			}
+
+		victory_points = {
+			16405 3 
+		}
+
+	}
+}

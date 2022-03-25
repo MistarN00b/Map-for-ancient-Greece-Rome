@@ -1,0 +1,22 @@
+
+state={
+	id=30
+	name="STATE_30"
+
+	history={
+		owner = BRU
+		add_core_of = BRU
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		6346 16383 16404 
+	}
+	manpower=13000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

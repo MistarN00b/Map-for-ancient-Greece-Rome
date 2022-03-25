@@ -1,0 +1,21 @@
+
+state={
+	id=418
+	name="STATE_418"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		6160 8364 15526 19411 
+	}
+	manpower=7819
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

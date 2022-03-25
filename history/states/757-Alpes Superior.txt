@@ -1,0 +1,22 @@
+
+state={
+	id=757
+	name="STATE_757"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		492 2732 2922 2958 5174 5536 6602 6826 7120 9212 9555 15224 20183 20185 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=768
+	name="STATE_768"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		3576 11513 15576 15580 15609 19790 20026 
+	}
+	manpower=26785
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

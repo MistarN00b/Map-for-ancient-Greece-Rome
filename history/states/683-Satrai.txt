@@ -1,0 +1,24 @@
+state={
+	id=683
+	name="STATE_683"
+	provinces={
+		1089 6615 8047 15770 
+	}
+	manpower=78000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = SRD
+		add_core_of = SRD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			8047 5 
+		}
+	}
+}

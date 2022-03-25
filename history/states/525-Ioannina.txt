@@ -1,0 +1,26 @@
+
+state={
+	id=525
+	name="STATE_525"
+
+	history={
+		owner = PAU
+		add_core_of = PAU
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			3125 3 
+		}
+
+	}
+
+	provinces={
+		3125 4621 16154 16185 16187 
+	}
+	manpower=87000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

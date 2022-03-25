@@ -1,0 +1,34 @@
+
+state={
+	id=857
+	name="STATE_857"
+
+	history={
+		owner = SAU
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			17150 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			17150 3 
+		}
+		victory_points = {
+			947 5 
+		}
+
+	}
+
+	provinces={
+		907 947 981 2963 3198 3617 3685 4877 6297 6660 7441 8192 8810 9008 10078 10123 10905 17121 17150 17167 
+	}
+	manpower=35673
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

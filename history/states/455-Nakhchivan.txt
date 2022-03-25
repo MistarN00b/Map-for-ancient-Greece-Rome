@@ -1,0 +1,23 @@
+
+state={
+	id=455
+	name="STATE_455"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5747 6516 7335 8988 10786 11104 15061 15075 15147 15175 15203 15215 15253 15256 15285 
+	}
+	manpower=1781
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

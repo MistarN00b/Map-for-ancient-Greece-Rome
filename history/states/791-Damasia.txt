@@ -1,0 +1,29 @@
+
+state={
+	id=791
+	name="STATE_791"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			14890 1 
+		}
+		victory_points = {
+			4760 3 
+		}
+
+	}
+
+	provinces={
+		1958 4760 4888 6235 8471 11226 14890 
+	}
+	manpower=41000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

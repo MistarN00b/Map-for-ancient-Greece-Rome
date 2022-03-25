@@ -1,0 +1,23 @@
+
+state={
+	id=600
+	name="STATE_600"
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4330 7564 10725 15792 15824 15869 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

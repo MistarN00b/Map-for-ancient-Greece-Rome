@@ -1,0 +1,35 @@
+
+state={
+	id=63
+	name="STATE_63"
+	resources={
+		aluminium=96.000
+	}
+
+	history={
+		owner = FRA
+		add_core_of=FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			19905 2 
+		}
+		victory_points = {
+			19898 5 
+		}
+		victory_points = {
+			19861 1 
+		}
+
+	}
+
+	provinces={
+		2623 15217 19861 19877 19884 19893 19898 19905 
+	}
+	manpower=47531
+	buildings_max_level_factor=1.000
+	state_category=town
+}

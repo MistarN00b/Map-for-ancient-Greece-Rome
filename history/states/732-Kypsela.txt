@@ -1,0 +1,20 @@
+state={
+	id=732
+	name="STATE_732"
+	provinces={
+		2333 6908 7575 9658 11032 15838 15896 15924 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = TRK
+		add_core_of = TRK
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+	}
+}

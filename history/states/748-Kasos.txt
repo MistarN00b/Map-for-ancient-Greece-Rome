@@ -1,0 +1,27 @@
+state={
+	id=748
+	name="STATE_748"
+	provinces={
+		17401 17403 
+	}
+	manpower=29000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	
+	history={
+		owner = RHO
+		add_core_of = RHO
+		victory_points = {
+			17403 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			17403 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+}

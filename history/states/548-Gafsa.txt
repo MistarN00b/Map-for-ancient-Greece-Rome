@@ -1,0 +1,21 @@
+state={
+	id=548
+	name="STATE_548"
+	provinces={
+		734 1543 2335 3719 3740 4444 9061 9772 11608 16791 16836 
+	}
+	manpower=170000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+}

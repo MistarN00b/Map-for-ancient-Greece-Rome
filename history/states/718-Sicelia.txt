@@ -1,0 +1,27 @@
+state={
+	id=718
+	name="STATE_718"
+	provinces={
+		2863 16598 16642 16652 20287 
+	}
+	manpower=78945
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SIC
+		add_core_of = SIC
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			16642 2 
+		}
+		victory_points = {
+			2863 3 
+		}
+
+	}
+}

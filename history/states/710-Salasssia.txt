@@ -1,0 +1,20 @@
+state={
+	id=710
+	name="STATE_710"
+	provinces={
+		4600 7720 8692 10280 20159 20160 20168 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+}

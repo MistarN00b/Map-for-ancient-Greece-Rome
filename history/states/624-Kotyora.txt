@@ -1,0 +1,31 @@
+
+state={
+	id=624
+	name="STATE_624"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			519 2 
+		}
+		victory_points = {
+			7675 3 
+		}
+		victory_points = {
+			10717 1 
+		}
+
+	}
+
+	provinces={
+		134 519 1555 6168 7675 15454 
+	}
+	manpower=76000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

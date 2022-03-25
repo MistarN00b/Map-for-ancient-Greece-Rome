@@ -1,0 +1,25 @@
+
+state={
+	id=333
+	name="STATE_333"
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			8159 2 
+		}
+	}
+
+	provinces={
+		1440 3927 6537 8159 8346 9131 11539 14944 
+	}
+	manpower=32542
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

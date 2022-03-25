@@ -1,0 +1,27 @@
+state={
+	id=736
+	name="STATE_736"
+	provinces={
+		1143 1210 6094 7230 9357 10045 15387 15409 15439 15443 
+	}
+	manpower=66000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = MOE
+		add_core_of = MOE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			9357 3 
+		}
+		victory_points = {
+			15387 1 
+		}
+
+	}
+}

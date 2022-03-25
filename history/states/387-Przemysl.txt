@@ -1,0 +1,25 @@
+
+state={
+	id=387
+	name="STATE_387"
+
+	history={
+		owner=ALB
+		add_core_of=ALB
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+
+		}
+		victory_points = {
+			8813 5 
+		}
+	}
+
+	provinces={
+		2847 5733 5817 5920 8813 9952 10023 15328 15373 
+	}
+	manpower=31000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

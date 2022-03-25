@@ -1,0 +1,26 @@
+
+state={
+	id=793
+	name="STATE_793"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			15754 3 
+		}
+
+	}
+
+	provinces={
+		7079 15745 15754 15784 17336 20079 20080 
+	}
+	manpower=38000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

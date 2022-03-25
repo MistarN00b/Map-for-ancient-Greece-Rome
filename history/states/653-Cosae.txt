@@ -1,0 +1,27 @@
+
+state={
+	id=653
+	name="STATE_653"
+
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			dockyard = 1
+
+		}
+		victory_points = {
+			1348 5 
+		}
+
+	}
+
+	provinces={
+		4770 6893 9577 9700 15900 17338 
+	}
+	manpower=63784
+	buildings_max_level_factor=1.000
+	state_category=town
+}

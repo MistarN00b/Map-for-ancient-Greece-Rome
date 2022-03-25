@@ -1,0 +1,26 @@
+state={
+	id=745
+	name="STATE_745"
+	provinces={
+		17391 17393 
+	}
+	manpower=12000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	
+	history={
+		owner = ATH
+		add_core_of = ATH
+		victory_points = {
+			17393 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			17393 = {
+				naval_base = 1
+
+			}
+		}
+	}
+}

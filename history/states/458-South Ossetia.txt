@@ -1,0 +1,22 @@
+
+state={
+	id=458
+	name="STATE_458"
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7290 9595 9918 
+	}
+	manpower=3112
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

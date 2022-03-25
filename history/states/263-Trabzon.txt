@@ -1,0 +1,46 @@
+
+state={
+	id=263
+	name="STATE_263"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			8911 5 
+		}
+		victory_points = {
+			9147 1 
+		}
+		victory_points = {
+			15174 3 
+		}
+		victory_points = {
+			2437 1 
+		}
+		victory_points = {
+			15202 3 
+		}
+		victory_points = {
+			15276 1 
+		}
+		victory_points = {
+			7876 3 
+		}
+		victory_points = {
+			8589 1 
+		}
+
+	}
+
+	provinces={
+		1205 2839 3659 3693 3882 4604 5709 6676 7892 8049 8122 8919 9884 10402 10474 10526 15171 15276 15313 15317 15358 15361 15412 15481 
+	}
+	manpower=1031129
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

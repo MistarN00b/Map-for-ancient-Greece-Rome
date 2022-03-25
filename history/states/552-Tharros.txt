@@ -1,0 +1,30 @@
+
+state={
+	id=552
+	name="STATE_552"
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+			4098 = {
+				naval_base = 1
+			}
+			1404 = {
+				naval_base = 2
+			}
+		}
+		victory_points={
+			1404 3
+		}
+	}
+
+	provinces={
+		1404 4098 5143 9464 10203 10304 10576 16162 16197 16273 16316 17342 
+	}
+	manpower=43671
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

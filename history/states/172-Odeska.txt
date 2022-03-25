@@ -1,0 +1,31 @@
+
+state={
+	id=172
+	name="STATE_172"
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			14641 3 
+		}
+		victory_points = {
+			5507 5 
+		}
+		victory_points={
+			123 1
+		}
+	}
+
+	provinces={
+		123 170 1512 1941 5507 6807 7883 7913 8941 9716 10266 14443 14496 14497 14537 14594 14641 14685 14686 
+	}
+	manpower=21654
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

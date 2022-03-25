@@ -1,0 +1,29 @@
+
+state={
+	id=147
+	name="STATE_147"
+	resources={
+		aluminium=2.000
+	}
+
+	history={
+		owner = TRB
+		add_core_of = TRB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory=1
+
+		}
+		victory_points = {
+			1691 3 
+		}
+	}
+
+	provinces={
+		702 1324 1691 2312 6319 7962 8745 10822 15573 15618 
+	}
+	manpower=98000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

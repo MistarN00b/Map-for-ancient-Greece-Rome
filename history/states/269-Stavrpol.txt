@@ -1,0 +1,32 @@
+
+state={
+	id=269
+	name="STATE_269"
+	resources={
+		chromium=2.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			5845 3 
+		}
+		victory_points = {
+			3703 1 
+		}
+
+	}
+
+	provinces={
+		925 2393 2511 2678 3703 4167 5845 6587 6978 7127 7783 7872 8325 8586 8630 9640 9968 10369 14168 14217 14225 14253 14261 14273 14316 14338 14356 14381 14408 14444 14456 14460 
+	}
+	manpower=21106
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

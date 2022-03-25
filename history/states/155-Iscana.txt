@@ -1,0 +1,23 @@
+
+state={
+	id=155
+	name="STATE_155"
+
+	history={
+		owner = TAU
+		add_core_of = TAU
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		10968 15917 15933 15942 
+	}
+	manpower=45000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	impassable=yes
+}

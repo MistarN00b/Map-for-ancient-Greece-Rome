@@ -1,0 +1,36 @@
+state={
+	id=614
+	name="STATE_614"
+	provinces={
+		15819 15846 19707 19708 19709 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	
+		history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			dockyard = 2
+			19707 = {
+				naval_base = 3
+
+			}
+		}
+		victory_points = {
+			15819 1 
+		}
+		victory_points = {
+			19707 3 
+		}
+		victory_points = {
+			19709 10 
+		}
+		victory_points = {
+			19708 5 
+		}
+	}
+}

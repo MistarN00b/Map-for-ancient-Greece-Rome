@@ -1,0 +1,32 @@
+
+state={
+	id=506
+	name="STATE_506"
+
+	history={
+		owner = ELI
+		add_core_of = ELI
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			dockyard = 1
+			industrial_complex = 1
+			3101 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			3101 10 
+		}
+
+	}
+
+	provinces={
+		1312 3101 10658 16543 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

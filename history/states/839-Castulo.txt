@@ -1,0 +1,27 @@
+state={
+	id=839
+	name="STATE_839"
+	provinces={
+		1339 4675 6489 8198 9458 10527 16444 16480 
+	}
+	manpower=34785
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points = {
+			1339 2 
+		}
+		victory_points = {
+			4675 5 
+		}
+
+	}
+}

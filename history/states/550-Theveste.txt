@@ -1,0 +1,23 @@
+
+state={
+	id=550
+	name="STATE_550"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1808 2153 2341 5205 6672 9172 10287 16756 16797 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

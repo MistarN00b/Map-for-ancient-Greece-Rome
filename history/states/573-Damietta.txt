@@ -1,0 +1,27 @@
+state={
+	id=573
+	name="STATE_573"
+	provinces={
+		3968 5069 
+	}
+	manpower=112374
+	buildings_max_level_factor=1.000
+	state_category = rural
+	
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			3968 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			3968 5 
+		}
+	}
+}

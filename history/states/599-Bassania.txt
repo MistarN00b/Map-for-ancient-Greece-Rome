@@ -1,0 +1,27 @@
+
+state={
+	id=599
+	name="STATE_599"
+
+	history={
+		owner = TAU
+		add_core_of = TAU
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4350 5 
+		}
+
+	}
+
+	provinces={
+		1707 4350 9844 15905 15920 15939 
+	}
+	manpower=87000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

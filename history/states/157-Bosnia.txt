@@ -1,0 +1,29 @@
+
+state={
+	id=157
+	name="STATE_157"
+	resources={
+		aluminium=11.000
+	}
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			11182 5 
+		}
+
+	}
+
+	provinces={
+		7941 9305 9449 10441 11182 15488 19414 19415 19417 19419 19421 19423 20235 
+	}
+	manpower=37000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

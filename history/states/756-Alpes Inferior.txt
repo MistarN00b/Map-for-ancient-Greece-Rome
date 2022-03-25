@@ -1,0 +1,23 @@
+state={
+	id=756
+	name="STATE_756"
+	provinces={
+		8484 15060 15090 15146 15212 15234 15283 20179 20180 20182 20187 20188 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			15060 1 
+		}
+
+	}
+}

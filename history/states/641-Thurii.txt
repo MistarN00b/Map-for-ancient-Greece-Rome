@@ -1,0 +1,26 @@
+
+state={
+	id=641
+	name="STATE_641"
+
+	history={
+		owner = THR
+		add_core_of = THR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			9117 3 
+		}
+
+	}
+
+	provinces={
+		9117 
+	}
+	manpower=39430
+	buildings_max_level_factor=1.000
+	state_category=town
+}

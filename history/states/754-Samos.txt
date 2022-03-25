@@ -1,0 +1,26 @@
+state={
+	id=754
+	name="STATE_754"
+	provinces={
+		17355 17360 17361 17366 
+	}
+	manpower=113000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ATH
+		add_core_of = ATH
+		victory_points = {
+			17355 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			17355 = {
+				naval_base = 1
+			}
+		}
+	}
+}

@@ -1,0 +1,43 @@
+
+state={
+	id=144
+	name="STATE_144"
+	resources={
+		oil=8.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			15909 1 
+		}
+		victory_points = {
+			1751 10 
+		}
+		victory_points = {
+			2551 1 
+		}
+		victory_points = {
+			16090 1 
+		}
+		victory_points = {
+			16271 1 
+		}
+		victory_points = {
+			16194 1 
+		}
+
+	}
+
+	provinces={
+		640 1471 1751 1783 2243 2551 3002 3085 3201 3255 3979 4836 6089 6161 7559 7948 8205 8652 9068 9094 9316 10069 10480 10537 11146 11397 11456 15823 15826 15852 15860 15866 15881 15909 15913 15914 15922 15950 15972 16046 16057 
+	}
+	manpower=1182741
+	buildings_max_level_factor=1.000
+	state_category=town
+}

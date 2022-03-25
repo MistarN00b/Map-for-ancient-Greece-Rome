@@ -1,0 +1,36 @@
+
+state={
+	id=156
+	name="STATE_156"
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			4074 5 
+		}
+		victory_points = {
+			15720 3 
+		}
+		victory_points = {
+			6492 2 
+		}
+		victory_points = {
+			15834 3 
+		}
+
+	}
+
+	provinces={
+		833 2405 2648 3297 4074 8199 10778 15776 15834 
+	}
+	manpower=97000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

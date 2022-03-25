@@ -1,0 +1,19 @@
+state={
+	id=831
+	name="STATE_831"
+	provinces={
+		7804 16547 
+	}
+	manpower=3675
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

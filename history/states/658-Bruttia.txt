@@ -1,0 +1,26 @@
+
+state={
+	id=658
+	name="STATE_658"
+
+	history={
+		owner = BRU
+		add_core_of = BRU
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+		victory_points = {
+			6009 3 
+		}
+
+	}
+
+	provinces={
+		3476 3731 6009 7606 9780 11199 
+	}
+	manpower=53761
+	buildings_max_level_factor=1.000
+	state_category=town
+}

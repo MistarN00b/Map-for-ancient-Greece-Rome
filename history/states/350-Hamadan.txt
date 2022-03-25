@@ -1,0 +1,29 @@
+
+state={
+	id=350
+	name="STATE_350"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points={
+			15670 5
+		}
+		victory_points={
+			257 1
+		}
+
+	}
+
+	provinces={
+		257 970 1017 1072 1345 1544 1847 3208 3403 3435 3536 5329 6866 6955 7245 7655 15670 15710 15821 
+	}
+	manpower=48762
+	buildings_max_level_factor=1.000
+	state_category=town
+}

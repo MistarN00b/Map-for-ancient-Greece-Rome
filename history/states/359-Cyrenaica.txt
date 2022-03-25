@@ -1,0 +1,23 @@
+
+state={
+	id=359
+	name="STATE_359"
+
+	history={
+		owner = CYR
+		add_core_of = CYR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		536 1611 4999 6236 6848 8841 9537 10627 11461 16931 16939 
+	}
+	manpower=6834
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=448
+	name="STATE_448"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5307 6470 15822 
+	}
+	manpower=3567
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

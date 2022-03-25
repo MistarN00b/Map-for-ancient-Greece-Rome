@@ -1,0 +1,26 @@
+
+state={
+	id=332
+	name="STATE_332"
+	resources={
+		chromium=18.000
+	}
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			4598 2 
+		}
+	}
+
+	provinces={
+		4598 7596 7664 7701 9798 11576 14728 14749 14826 
+	}
+	manpower=6934
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

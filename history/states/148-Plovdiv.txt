@@ -1,0 +1,27 @@
+
+state={
+	id=148
+	name="STATE_148"
+
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			7474 2 
+		}
+
+	}
+
+	provinces={
+		2425 3514 4050 7474 15752 15778 15785 15803 
+	}
+	manpower=102000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

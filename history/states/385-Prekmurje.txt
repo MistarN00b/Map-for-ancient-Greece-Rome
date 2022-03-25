@@ -1,0 +1,25 @@
+
+state={
+	id=385
+	name="STATE_385"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			3662 1 
+		}
+
+	}
+
+	provinces={
+		2738 3662 5639 5765 15243 15311 
+	}
+	manpower=26000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

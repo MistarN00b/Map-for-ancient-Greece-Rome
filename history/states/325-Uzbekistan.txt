@@ -1,0 +1,30 @@
+
+state={
+	id=325
+	name="STATE_325"
+	resources={
+		chromium=15.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7567 5 
+		}
+
+	}
+
+	provinces={
+		682 821 1310 1752 2128 2282 2725 2896 3105 3215 3420 3822 4165 4413 5771 5908 6698 7117 7208 7567 7878 7979 9177 10094 10574 13610 13703 13754 13948 13956 
+	}
+	manpower=98779
+	buildings_max_level_factor=1.000
+	state_category=town
+}

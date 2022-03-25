@@ -1,0 +1,27 @@
+
+state={
+	id=490
+	name="STATE_490"
+
+	history={
+		owner=ALB
+		add_core_of=ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			3026 5
+		}
+
+	}
+
+	provinces={
+		3026 3268 4912 5407 7586 9259 9870 10854 11465 15121 15122 20191 
+	}
+	manpower=39000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

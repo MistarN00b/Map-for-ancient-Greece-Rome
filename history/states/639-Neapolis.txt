@@ -1,0 +1,32 @@
+
+state={
+	id=639
+	name="STATE_639"
+
+	history={
+		owner = CUM
+		add_core_of = CUM
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard=1
+			5613 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			5613 5 
+		}
+
+	}
+
+	provinces={
+		5613 19482 
+	}
+	manpower=47631
+	buildings_max_level_factor=1.000
+	state_category=town
+}

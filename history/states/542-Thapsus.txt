@@ -1,0 +1,21 @@
+state={
+	id=542
+	name="STATE_542"
+	provinces={
+		448 979 8351 11319 
+	}
+	manpower=142069
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+}

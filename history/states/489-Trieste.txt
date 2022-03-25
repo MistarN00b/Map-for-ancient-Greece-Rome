@@ -1,0 +1,26 @@
+
+state={
+	id=489
+	name="STATE_489"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			15168 3 
+		}
+
+	}
+
+	provinces={
+		568 10345 15208 15260 20296 
+	}
+	manpower=42000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

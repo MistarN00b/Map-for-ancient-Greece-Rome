@@ -1,0 +1,26 @@
+
+state={
+	id=361
+	name="STATE_361"
+
+	history={
+		owner = ABD
+		add_core_of = ABD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			8448 1 
+		}
+
+	}
+
+	provinces={
+		7828 8448 15949 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

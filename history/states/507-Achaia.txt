@@ -1,0 +1,32 @@
+
+state={
+	id=507
+	name="STATE_507"
+
+	history={
+		owner = PAT
+		add_core_of = PAT
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			16506 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			16506 10 
+		}
+
+	}
+
+	provinces={
+		5841 16506 
+	}
+	manpower=98000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=229
+	name="STATE_229"
+
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+			16302 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			16302 5 
+		}
+		victory_points = {
+			16494 3 
+		}
+
+	}
+
+	provinces={
+		4446 5509 9157 16302 16319 16330 16385 16426 16459 16494 
+	}
+	manpower=37784
+	buildings_max_level_factor=1.000
+	state_category=town
+}

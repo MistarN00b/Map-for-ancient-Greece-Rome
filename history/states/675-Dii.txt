@@ -1,0 +1,24 @@
+
+state={
+	id=675
+	name="STATE_675"
+
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		946 5003 5250 6411 7786 9556 10156 10811 15712 15738 
+	}
+	manpower=96000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

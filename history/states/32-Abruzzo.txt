@@ -1,0 +1,23 @@
+
+state={
+	id=32
+	name="STATE_32"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+
+	}
+
+	provinces={
+		6 1475 6880 15717 15749 15750 15768 15807 19726 19741 
+	}
+	manpower=32765
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

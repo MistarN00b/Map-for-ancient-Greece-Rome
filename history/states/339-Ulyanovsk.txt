@@ -1,0 +1,21 @@
+
+state={
+	id=339
+	name="STATE_339"
+
+	history={
+		owner=ARM
+		add_core_of=ARM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		2474 2959 3109 3302 3556 4194 4663 7156 7560 7645 7976 9074 9436 11010 15295 15338 15340 15362 15374 15407 15514 
+	}
+	manpower=5633
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

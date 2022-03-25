@@ -1,0 +1,22 @@
+
+state={
+	id=329
+	name="STATE_329"
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		906 4131 4858 5769 5827 6598 8422 8967 14385 14423 14452 14464 
+	}
+	manpower=4761
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

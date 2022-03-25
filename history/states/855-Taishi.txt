@@ -1,0 +1,28 @@
+state={
+	id=855
+	name="STATE_855"
+	provinces={
+		515 1970 1992 2791 4716 5631 6818 7569 7751 7852 9666 10255 10514 10604 10897 10999 15097 15125 15127 15172 15307 
+	}
+	manpower=51753
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+			arms_factory=1
+
+		}
+		victory_points={
+			515 3
+		}
+		victory_points={
+			6818 5
+		}
+
+	}
+}

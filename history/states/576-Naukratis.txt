@@ -1,0 +1,22 @@
+state={
+	id=576
+	name="STATE_576"
+	provinces={
+		679 900 8152 16887 
+	}
+	manpower=98763
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 4
+			dockyard=1
+			}
+		victory_points = {
+			8152 5 
+		}
+	}
+}

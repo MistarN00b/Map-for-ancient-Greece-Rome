@@ -1,0 +1,29 @@
+state={
+	id=508
+	name="STATE_508"
+	
+	history={
+		owner = ARS
+		add_core_of = ARS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			5201 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			8504 10 
+		}
+	}
+	
+	provinces={
+		5201 8504 16534 16552 17381 17386 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

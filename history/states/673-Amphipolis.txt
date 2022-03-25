@@ -1,0 +1,25 @@
+state={
+	id=673
+	name="STATE_673"
+	provinces={
+		3834 8136 9418 11345 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = AMP
+		add_core_of = AMP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			8136 5 
+		}
+
+	}
+}

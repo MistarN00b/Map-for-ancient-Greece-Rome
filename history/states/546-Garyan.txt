@@ -1,0 +1,26 @@
+
+state={
+	id=546
+	name="STATE_546"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		victory_points = {
+			8439 5 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1144 2118 4586 4713 5170 5872 7984 8240 8439 11154 16915 16952 16954 16975 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

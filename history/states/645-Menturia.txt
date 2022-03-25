@@ -1,0 +1,33 @@
+
+state={
+	id=645
+	name="STATE_645"
+
+	history={
+		owner = MET
+		add_core_of = MET
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16279 3 
+		}
+		victory_points = {
+			11360 5 
+		}
+		victory_points = {
+			1388 1 
+		}
+
+	}
+
+	provinces={
+		1388 11360 16279 
+	}
+	manpower=42310
+	buildings_max_level_factor=1.000
+	state_category=town
+}

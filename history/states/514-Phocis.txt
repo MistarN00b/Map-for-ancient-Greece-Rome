@@ -1,0 +1,31 @@
+
+state={
+	id=514
+	name="STATE_514"
+
+	history={
+		owner = DEL
+		add_core_of = DEL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 0
+			industrial_complex = 2
+			5142 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			5142 5 
+		}
+
+	}
+
+	provinces={
+		1169 5142 
+	}
+	manpower=60000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

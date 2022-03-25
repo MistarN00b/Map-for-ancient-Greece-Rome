@@ -1,0 +1,23 @@
+
+state={
+	id=468
+	name="STATE_468"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		159 7648 10119 14987 
+	}
+	manpower=3000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

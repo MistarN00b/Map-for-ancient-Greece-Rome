@@ -1,0 +1,28 @@
+
+state={
+	id=265
+	name="STATE_265"
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			3566 2 
+		}
+		victory_points = {
+			4244 1 
+		}
+	}
+
+	provinces={
+		1626 3566 4244 7868 10694 11181 11218 15001 15015 
+	}
+	manpower=27221
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

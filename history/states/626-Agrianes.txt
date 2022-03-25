@@ -1,0 +1,25 @@
+
+state={
+	id=626
+	name="STATE_626"
+
+	history={
+		owner = SRD
+		add_core_of = SRD
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			7620 1 
+		}
+
+	}
+
+	provinces={
+		3428 4506 7039 7620 15864 15874 15906 15923 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

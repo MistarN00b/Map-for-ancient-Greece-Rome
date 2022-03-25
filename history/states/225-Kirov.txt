@@ -1,0 +1,29 @@
+
+state={
+	id=225
+	name="STATE_225"
+	resources={
+		aluminium=14.000
+	}
+
+	history={
+		owner=PER
+		add_core_of=PER
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			7396 2 
+		}
+		victory_points = {
+			15088 1 
+		}
+	}
+
+	provinces={
+		451 4614 5156 7265 7396 7953 8676 11468 15088 15308 
+	}
+	manpower=21873
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

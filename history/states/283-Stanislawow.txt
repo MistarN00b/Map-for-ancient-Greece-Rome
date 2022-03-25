@@ -1,0 +1,24 @@
+
+state={
+	id=283
+	name="STATE_283"
+
+	history={
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+
+		}
+		victory_points = {
+			1891 1 
+		}
+
+	}
+
+	provinces={
+		826 1455 1891 2859 4150 4393 4572 4645 5020 5976 6165 6410 6706 6929 7285 7917 8427 8555 9496 9507 10373 10702 11135 14205 14247 14288 14290 14329 14336 14339 14387 14459 14472 14517 14541 14559 20006 
+	}
+	manpower=2180300
+	buildings_max_level_factor=1.000
+	state_category=town
+}

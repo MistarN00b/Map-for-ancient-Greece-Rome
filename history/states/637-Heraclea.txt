@@ -1,0 +1,26 @@
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
+		owner = HER
+		add_core_of = HER
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16220 3
+		}
+
+	}
+
+	provinces={
+		2226 16220 
+	}
+	manpower=42761
+	buildings_max_level_factor=1.000
+	state_category=town
+}

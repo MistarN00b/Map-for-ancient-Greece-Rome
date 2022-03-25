@@ -1,0 +1,25 @@
+
+state={
+	id=475
+	name="STATE_475"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			20242 2 
+		}
+
+	}
+
+	provinces={
+		5297 7096 15150 15169 15182 15213 20242 20244 20247 
+	}
+	manpower=23000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

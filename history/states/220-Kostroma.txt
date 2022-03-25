@@ -1,0 +1,35 @@
+
+state={
+	id=220
+	name="STATE_220"
+
+	history={
+		owner=PER
+		add_core_of=PER
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+			dockyard=2
+
+		}
+		victory_points = {
+			1883 2 
+		}
+		victory_points = {
+			7236 5 
+		}
+		victory_points = {
+			5752 3 
+		}
+		victory_points = {
+			15220 2 
+		}
+	}
+
+	provinces={
+		1209 1883 3963 4866 5663 5752 6850 7236 7814 10560 10929 15054 15220 
+	}
+	manpower=148764
+	buildings_max_level_factor=1.000
+	state_category=city
+}

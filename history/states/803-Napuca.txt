@@ -1,0 +1,27 @@
+state={
+	id=803
+	name="STATE_803"
+	provinces={
+		2410 3856 5612 7263 8135 8517 8806 9911 11201 11417 15329 15368 15376 15438 15467 
+	}
+	manpower=47000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+
+		}
+		victory_points = {
+			3856 2 
+		}
+		victory_points = {
+			8517 3 
+		}
+
+	}
+}

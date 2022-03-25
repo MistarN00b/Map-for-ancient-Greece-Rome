@@ -1,0 +1,26 @@
+
+state={
+	id=608
+	name="STATE_608"
+
+	history={
+		owner = PAE
+		add_core_of = PAE
+		buildings = {
+			arms_factory = 1
+			infrastructure = 4
+
+		}
+		victory_points = {
+			11559 5 
+		}
+
+	}
+
+	provinces={
+		3077 6500 7292 8519 11559 15959 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

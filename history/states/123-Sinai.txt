@@ -1,0 +1,25 @@
+
+state={
+	id=123
+	name="STATE_123"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			16812 2 
+		}
+
+	}
+
+	provinces={
+		3246 16812 
+	}
+	manpower=19452
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

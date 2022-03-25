@@ -1,0 +1,31 @@
+state={
+	id=610
+	name="STATE_610"
+	provinces={
+		1347 3670 4819 4926 7411 11160 16053 16113 16151 
+	}
+	manpower=140000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory=1
+
+		}
+		victory_points = {
+			16151 1 
+		}
+		victory_points = {
+			4926 5 
+		}
+		victory_points = {
+			4819 2 
+		}
+		
+	}
+}

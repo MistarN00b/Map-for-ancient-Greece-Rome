@@ -1,0 +1,31 @@
+
+state={
+	id=31
+	name="STATE_31"
+	resources={
+		aluminium=6.000
+		steel=14.000
+	}
+
+	history={
+		owner = SMM
+		add_core_of = SMM
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4647 10 
+		}
+
+	}
+
+	provinces={
+		2481 4647 10652 16095 16116 16123 19483 20288 
+	}
+	manpower=73658
+	buildings_max_level_factor=1.000
+	state_category=town
+}

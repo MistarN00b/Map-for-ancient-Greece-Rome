@@ -1,0 +1,23 @@
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		2599 3899 7663 9567 10158 10179 15133 15134 15155 
+	}
+	manpower=36000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10179 3 
+		}
+
+	}
+}

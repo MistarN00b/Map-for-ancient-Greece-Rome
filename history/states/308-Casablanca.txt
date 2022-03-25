@@ -1,0 +1,38 @@
+
+state={
+	id=308
+	name="STATE_308"
+	resources={
+		chromium=12.000
+	}
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory=1
+		}
+		victory_points = {
+			16771 5 
+		}
+		victory_points = {
+			2635 3 
+		}
+		victory_points = {
+			7207 2 
+		}
+		victory_points = {
+			3412 1 
+		}
+
+	}
+
+	provinces={
+		814 1259 1844 2008 2451 2513 2635 2983 3412 3739 4442 4966 5479 5481 5546 6098 6126 6572 6617 7118 7207 10052 10891 10983 11594 16745 16755 16758 16762 16770 16771 16783 16799 16800 16811 
+	}
+	manpower=89564
+	buildings_max_level_factor=1.000
+	state_category=town
+}

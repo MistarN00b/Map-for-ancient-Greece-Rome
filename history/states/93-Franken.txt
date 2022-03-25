@@ -1,0 +1,54 @@
+
+state={
+	id=93
+	name="STATE_93"
+
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			14333 5 
+		}
+		victory_points = {
+			14305 1 
+		}
+		victory_points = {
+			14383 1 
+		}
+		victory_points = {
+			14404 1 
+		}
+		victory_points = {
+			14396 1 
+		}
+		victory_points = {
+			6412 3 
+		}
+		victory_points = {
+			14440 1 
+		}
+		victory_points = {
+			14394 5 
+		}
+		victory_points = {
+			14516 1 
+		}
+		victory_points = {
+			14458 1 
+		}
+		victory_points = {
+			14535 1 
+		}
+
+	}
+
+	provinces={
+		1031 1037 1264 1322 2034 2338 2348 2449 2691 3190 3544 4516 6182 6314 6412 6678 6750 6758 6769 6884 8093 8117 8838 9551 9853 10062 10229 10545 11505 14292 14305 14321 14327 14333 14355 14366 14383 14394 14395 14396 14403 14404 14435 14440 14441 14458 14469 14470 14486 14504 14516 14532 14535 14536 14539 14540 14557 14566 14568 14579 14615 14660 14666 19463 
+	}
+	manpower=2508159
+	buildings_max_level_factor=1.000
+	state_category=city
+}

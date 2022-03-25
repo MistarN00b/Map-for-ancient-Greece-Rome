@@ -1,0 +1,36 @@
+
+state={
+	id=162
+	name="STATE_162"
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			393 = {
+				naval_base = 2
+
+			}
+			2767 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			2767 4 
+		}
+		victory_points = {
+			393 2 
+		}
+	}
+
+	provinces={
+		393 2767 9882 
+	}
+	manpower=31781
+	buildings_max_level_factor=1.000
+	state_category=town
+}

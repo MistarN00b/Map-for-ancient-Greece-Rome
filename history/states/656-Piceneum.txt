@@ -1,0 +1,33 @@
+
+state={
+	id=656
+	name="STATE_656"
+
+	history={
+		owner = PIT
+		add_core_of = PIT
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+			industrial_complex=1
+
+		}
+		victory_points = {
+			9116 5 
+		}
+		victory_points = {
+			378 5 
+		}
+		victory_points = {
+			1827 5 
+		}
+
+	}
+
+	provinces={
+		378 1827 8934 9116 10486 10990 
+	}
+	manpower=65982
+	buildings_max_level_factor=1.000
+	state_category=town
+}

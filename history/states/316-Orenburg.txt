@@ -1,0 +1,21 @@
+
+state={
+	id=316
+	name="STATE_316"
+	
+	history={
+		owner=ARM
+		add_core_of=ARM
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1760 8823 15021 15044 15071 15074 15095 
+	}
+	manpower=2677
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

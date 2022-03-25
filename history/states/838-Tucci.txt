@@ -1,0 +1,22 @@
+state={
+	id=838
+	name="STATE_838"
+	provinces={
+		3995 4056 4251 7428 8156 8465 16496 16532 
+	}
+	manpower=27753
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure =3
+			industrial_complex = 1
+		}
+		victory_points = {
+			8156 2 
+		}
+	}
+}

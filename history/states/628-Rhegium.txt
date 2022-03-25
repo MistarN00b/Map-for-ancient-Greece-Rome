@@ -1,0 +1,29 @@
+state={
+	id=628
+	name="STATE_628"
+	provinces={
+		1915 5264 10724 
+	}
+	manpower=48459
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = RHE
+		add_core_of = RHE
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+			arms_factory=1
+			dockyard = 1
+			10724 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			10724 3 
+		}
+	}
+}

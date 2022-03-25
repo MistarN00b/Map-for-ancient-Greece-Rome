@@ -1,0 +1,38 @@
+
+state={
+	id=533
+	name="STATE_533"
+
+	history={
+		owner = SYE
+		add_core_of = SYE
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard=1
+			2961 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			2961 10 
+		}
+		victory_points = {
+			10785 3 
+		}
+		victory_points = {
+			16676 2 
+		}
+
+	}
+
+	provinces={
+		2961 10785 16663 16676 
+	}
+	manpower=176836
+	buildings_max_level_factor=1.000
+	state_category=city
+}

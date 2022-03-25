@@ -1,0 +1,25 @@
+
+state={
+	id=136
+	name="STATE_136"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			2488 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		2488 5344 6702 10167 
+	}
+	manpower=190000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

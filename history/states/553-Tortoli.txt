@@ -1,0 +1,23 @@
+
+state={
+	id=553
+	name="STATE_553"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		8091 8990 10852 11545 15428 19801 19805 19829 19842 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

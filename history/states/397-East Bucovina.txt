@@ -1,0 +1,29 @@
+
+state={
+	id=397
+	name="STATE_397"
+
+	history={
+		owner=MOR
+		add_core_of=MOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			4046 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = {
+			4046 3 
+		}
+	}
+
+	provinces={
+		3210 3269 3745 4046 4362 11099 16724 16743 16754 
+	}
+	manpower=62431
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

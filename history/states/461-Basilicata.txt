@@ -1,0 +1,26 @@
+
+state={
+	id=461
+	name="STATE_461"
+
+	history={
+		owner = LUC
+		add_core_of = LUC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16141 3 
+		}
+
+	}
+
+	provinces={
+		8344 9701 9892 16141 
+	}
+	manpower=56092
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

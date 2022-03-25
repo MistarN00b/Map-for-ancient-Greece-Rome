@@ -1,0 +1,34 @@
+
+state={
+	id=129
+	name="STATE_129"
+	resources={
+		aluminium=3.000
+		chromium=3.000
+	}
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			10100 2 
+		}
+		victory_points = {
+			15883 5 
+		}
+
+	}
+
+	provinces={
+		525 3034 3585 3595 5166 7091 8485 10100 10519 10704 15827 15857 15883 20100 20102 
+	}
+	manpower=74000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

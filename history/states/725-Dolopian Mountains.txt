@@ -1,0 +1,23 @@
+
+state={
+	id=725
+	name="STATE_725"
+
+	history={
+		owner = DOL
+		add_core_of = DOL
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		1149 5186 5989 16381 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	impassable=yes
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=362
+	name="STATE_362"
+	resources={
+		steel=14.000
+	}
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		5809 6024 6261 8937 9426 15653 15681 15700 15711 15728 
+	}
+	manpower=58000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

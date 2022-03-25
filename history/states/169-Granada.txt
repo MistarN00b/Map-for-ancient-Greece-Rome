@@ -1,0 +1,44 @@
+
+state={
+	id=169
+	name="STATE_169"
+	resources={
+		steel=13.000
+	}
+
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			1757 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			1757 2 
+		}
+		victory_points = {
+			9612 2 
+		}
+		victory_points = {
+			9959 1 
+		}
+		victory_points = {
+			6591 1 
+		}
+
+	}
+
+	provinces={
+		1075 4957 5075 6591 8054 9612 9959 11509 16561 16594 16599 16615 
+	}
+	manpower=72985
+	buildings_max_level_factor=1.000
+	state_category=town
+}

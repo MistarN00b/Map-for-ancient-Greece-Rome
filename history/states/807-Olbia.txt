@@ -1,0 +1,39 @@
+
+state={
+	id=807
+	name="STATE_807"
+
+	history={
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			10550 = {
+				naval_base = 2
+
+			}
+			9680 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			10550 5 
+		}
+		victory_points = {
+			9680 2 
+		}
+
+	}
+
+	provinces={
+		379 2234 2941 3345 4638 5680 9680 10154 10550 10997 14507 14577 14625 14635 14638 14735 
+	}
+	manpower=41000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

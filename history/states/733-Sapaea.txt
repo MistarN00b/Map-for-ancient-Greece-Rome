@@ -1,0 +1,25 @@
+state={
+	id=733
+	name="STATE_733"
+	provinces={
+		1238 6704 7160 8501 11412 
+	}
+	manpower=97000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = SAP
+		add_core_of = SAP
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+			arms_factory=1
+
+		}
+		victory_points = {
+			6704 5 
+		}
+
+	}
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=175
+	name="STATE_175"
+	resources={
+		chromium=23.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			dockyard=1
+
+		}
+		victory_points = {
+			14683 3 
+		}
+		victory_points = {
+			4007 2 
+		}
+
+	}
+
+	provinces={
+		429 559 921 2660 2833 3013 4007 4856 6029 6935 9224 9823 9899 10393 14433 14438 14508 14520 14524 14548 14552 14560 14606 14683 14699 17316 
+	}
+	manpower=26221
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

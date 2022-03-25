@@ -1,0 +1,26 @@
+state={
+	id=814
+	name="STATE_814"
+	provinces={
+		17353 17358 
+	}
+	manpower=21092
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 4
+			17353 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			17353 2 
+		}
+
+	}
+}

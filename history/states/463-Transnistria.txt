@@ -1,0 +1,23 @@
+
+state={
+	id=463
+	name="STATE_463"
+
+	history={
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 3
+			dockyard=1
+
+		}
+
+	}
+
+	provinces={
+		3022 5253 6862 9839 11506 14800 14859 19450 
+	}
+	manpower=17000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

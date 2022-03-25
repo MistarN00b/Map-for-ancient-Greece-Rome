@@ -1,0 +1,27 @@
+
+state={
+	id=457
+	name="STATE_457"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+			dockyard=1
+			14872 = { naval_base=1}
+
+		}
+		victory_points={
+			14872 3
+		}
+
+	}
+
+	provinces={
+		2946 6027 7970 11361 11631 14872 
+	}
+	manpower=14231
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

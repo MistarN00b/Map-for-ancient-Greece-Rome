@@ -1,0 +1,26 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = SIC
+		add_core_of = SIC
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points = {
+			5515 5
+		}
+
+	}
+
+	provinces={
+		209 4725 5515 16640 
+	}
+	manpower=67541
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

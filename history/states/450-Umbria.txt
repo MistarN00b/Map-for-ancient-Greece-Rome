@@ -1,0 +1,26 @@
+
+state={
+	id=450
+	name="STATE_450"
+
+	history={
+		owner = UMB
+		add_core_of = UMB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			8933 5 
+		}
+
+	}
+
+	provinces={
+		7647 8933 15850 15855 15863 15895 
+	}
+	manpower=56834
+	buildings_max_level_factor=1.000
+	state_category=town
+}

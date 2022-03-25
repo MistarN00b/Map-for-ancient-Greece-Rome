@@ -1,0 +1,29 @@
+
+state={
+	id=454
+	name="STATE_454"
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 4
+			16569 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			16569 1 
+		}
+
+	}
+
+	provinces={
+		348 2397 16554 16569 16582 16588 
+	}
+	manpower=110000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

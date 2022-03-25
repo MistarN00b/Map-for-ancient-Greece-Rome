@@ -1,0 +1,36 @@
+state={
+	id=504
+	name="STATE_504"
+	
+	history={
+		owner = SRT
+		add_core_of = SRT
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+			10493 = {
+				naval_base = 2
+			
+			}
+		
+		}
+		victory_points = {
+			7627 15
+		}
+		victory_points = {
+			10493 5
+		}
+		victory_points = {
+			11178 1
+		}
+	
+	}
+	
+	provinces={
+		6735 7627 10493 11178 16609 17402 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

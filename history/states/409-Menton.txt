@@ -1,0 +1,23 @@
+
+state={
+	id=409
+	name="STATE_409"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5018 6971 9950 15432 20037 
+	}
+	manpower=2653
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

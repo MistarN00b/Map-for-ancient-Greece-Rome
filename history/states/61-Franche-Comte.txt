@@ -1,0 +1,33 @@
+
+state={
+	id=61
+	name="STATE_61"
+	resources={
+		steel=48.000
+	}
+
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			14744 1 
+		}
+		victory_points = {
+			19699 1 
+		}
+		victory_points = {
+			6309 1 
+		}
+
+	}
+
+	provinces={
+		197 651 5008 6309 19627 19640 
+	}
+	manpower=682875
+	buildings_max_level_factor=1.000
+	state_category=city
+}

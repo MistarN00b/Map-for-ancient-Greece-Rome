@@ -1,0 +1,26 @@
+state={
+	id=592
+	name="STATE_592"
+	provinces={
+		2063 3557 16865 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = CYR
+		add_core_of = CYR
+		victory_points = {
+			2063 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex=1
+			2063 = {
+				naval_base = 1
+
+			}
+		}
+	}
+}

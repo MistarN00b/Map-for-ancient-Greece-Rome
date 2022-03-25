@@ -1,0 +1,26 @@
+
+state={
+	id=647
+	name="STATE_647"
+
+	history={
+		owner = NUC
+		add_core_of = NUC
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+
+		}
+		victory_points = {
+			16143 5 
+		}
+
+	}
+
+	provinces={
+		16143 
+	}
+	manpower=41786
+	buildings_max_level_factor=1.000
+	state_category=town
+}

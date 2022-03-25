@@ -1,0 +1,29 @@
+
+state={
+	id=357
+	name="STATE_357"
+
+	history={
+		owner = CYR
+		add_core_of = CYR
+		victory_points = {
+			3782 5 
+		}
+		buildings = {
+			infrastructure = 3
+			3782 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1832 1994 2223 3782 3850 5657 10982 16936 16976 17012 17053 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

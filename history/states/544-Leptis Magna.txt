@@ -1,0 +1,27 @@
+
+state={
+	id=544
+	name="STATE_544"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		victory_points = {
+			8957 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+
+		}
+
+	}
+
+	provinces={
+		460 712 3558 5473 6630 8957 10208 11603 16969 16986 
+	}
+	manpower=110000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

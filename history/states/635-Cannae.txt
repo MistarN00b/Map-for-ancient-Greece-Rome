@@ -1,0 +1,26 @@
+
+state={
+	id=635
+	name="STATE_635"
+
+	history={
+		owner = APU
+		add_core_of = APU
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			253 5 
+		}
+
+	}
+
+	provinces={
+		6898 10603 16101 
+	}
+	manpower=31983
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

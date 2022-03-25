@@ -1,0 +1,22 @@
+state={
+	id=587
+	name="STATE_587"
+	provinces={
+		1003 3395 3776 5029 8860 9300 16700 
+	}
+	manpower=160000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 5
+			5029 = {
+				naval_base = 2
+			}
+			arms_factory = 1
+		}
+	}
+}

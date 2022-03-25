@@ -1,0 +1,25 @@
+state={
+	id=680
+	name="STATE_680"
+	provinces={
+		4342 6384 9165 10559 16012 
+	}
+	manpower=174000
+	buildings_max_level_factor=1.000
+	state_category=city
+	
+	history={
+		owner = MKE
+		add_core_of = MKE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			4342 20 
+		}
+
+	}
+}

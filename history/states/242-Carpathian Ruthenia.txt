@@ -1,0 +1,27 @@
+
+state={
+	id=242
+	name="STATE_242"
+
+	history={
+		buildings = {
+			infrastructure = 5
+
+		}
+		victory_points = {
+			8608 2 
+		}
+		victory_points = {
+			14588 1 
+		}
+
+	}
+
+	provinces={
+		11 251 638 1542 2373 2911 3247 4207 4349 4459 4798 5257 6134 6189 6330 6512 6987 7243 7558 7886 10148 10191 10460 10777 10808 10989 11022 11155 11316 14448 14501 14604 14698 14753 14773 14774 14870 14910 14931 14981 15012 15036 19442 
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

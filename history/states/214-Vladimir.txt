@@ -1,0 +1,22 @@
+
+state={
+	id=214
+	name="STATE_214"
+
+	history={
+		owner=PER
+		add_core_of=PER
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		16 36 281 630 1511 1546 1782 1894 2374 3162 3598 3913 3914 4995 5011 5116 5241 5592 6828 6851 7054 7108 7326 8154 8569 8645 8735 9268 9737 10161 10215 10220 10896 11012 11272 11467 15612 15617 15642 15687 15688 15693 15731 15775 15787 15811 15815 15848 15853 15871 
+	}
+	manpower=4567
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

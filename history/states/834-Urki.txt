@@ -1,0 +1,28 @@
+state={
+	id=834
+	name="STATE_834"
+	provinces={
+		8731 11016 16593 16597 16608 16618 16619 16625 16628 16634 
+	}
+	manpower=35878
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+		history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			16628 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			16628 3 
+		}
+
+	}
+}

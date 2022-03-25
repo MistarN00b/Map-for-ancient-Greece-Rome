@@ -1,0 +1,29 @@
+state={
+	id=623
+	name="STATE_623"
+	provinces={
+		2936 4156 5655 8217 10784 11245 11517 15513 15529 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points = {
+			8217 10 
+		}
+		victory_points = {
+			5655 3 
+		}
+		victory_points = {
+			11517 1 
+		}
+	}
+}

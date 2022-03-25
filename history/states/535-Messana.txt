@@ -1,0 +1,37 @@
+
+state={
+	id=535
+	name="STATE_535"
+
+	history={
+		owner = ME1
+		add_core_of = ME1
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory=1
+			9405 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			9405 5 
+		}
+		victory_points = {
+			17374 1 
+		}
+		victory_points = {
+			11487 1 
+		}
+
+	}
+
+	provinces={
+		872 4799 5804 9405 11487 16586 17364 17372 17374 17377 
+	}
+	manpower=57982
+	buildings_max_level_factor=1.000
+	state_category=town
+}

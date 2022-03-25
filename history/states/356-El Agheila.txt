@@ -1,0 +1,22 @@
+
+state={
+	id=356
+	name="STATE_356"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		285 1643 4975 5566 6007 9572 10623 17066 17072 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

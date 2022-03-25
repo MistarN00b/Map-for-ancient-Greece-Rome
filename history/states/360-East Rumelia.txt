@@ -1,0 +1,32 @@
+
+state={
+	id=360
+	name="STATE_360"
+
+	history={
+		owner = SAP
+		add_core_of = SAP
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			7193 3 
+		}
+		victory_points = {
+			11557 2 
+		}
+		victory_points = {
+			1639 1 
+		}
+
+	}
+
+	provinces={
+		1639 4667 7048 7193 9070 11557 15851 15859 15916 
+	}
+	manpower=103000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=676
+	name="STATE_676"
+
+	history={
+		owner = EPI
+		add_core_of = EPI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			3313 5 
+		}
+
+	}
+
+	provinces={
+		927 3313 8216 10944 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

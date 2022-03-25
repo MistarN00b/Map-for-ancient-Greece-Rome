@@ -1,0 +1,38 @@
+
+state={
+	id=345
+	name="STATE_345"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			16467 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			16467 1 
+		}
+		victory_points = {
+			2438 1 
+		}
+		victory_points = {
+			2263 10 
+		}
+		victory_points = {
+			7753 1 
+		}
+
+	}
+
+	provinces={
+		173 1258 1614 1669 1947 2126 2263 2438 2523 2613 2765 2855 2924 3277 3854 4286 4525 4591 5298 5493 6175 7753 8349 8599 8982 9885 9947 9958 10181 10417 10675 10843 10863 11334 16229 16257 16312 16346 16419 16475 16515 16535 16559 16577 20316 20317 
+	}
+	manpower=1325594
+	buildings_max_level_factor=1.000
+	state_category=town
+}

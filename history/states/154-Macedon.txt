@@ -1,0 +1,32 @@
+
+state={
+	id=154
+	name="STATE_154"
+	resources={
+		chromium=15.000
+		aluminium=9.000
+		steel=18.000
+	}
+
+	history={
+		owner = PAE
+		add_core_of = PAE
+		buildings = {
+			industrial_complex = 2
+			arms_factory = 1
+			infrastructure = 3
+
+		}
+		victory_points = {
+			9816 10 
+		}
+
+	}
+
+	provinces={
+		3488 4557 7780 9578 9816 11151 15877 15892 20300 
+	}
+	manpower=94000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

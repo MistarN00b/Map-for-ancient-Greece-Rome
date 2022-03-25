@@ -1,0 +1,19 @@
+state={
+	id=706
+	name="STATE_706"
+	provinces={
+		8193 9301 10883 20019 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+	}
+}

@@ -1,0 +1,28 @@
+
+state={
+	id=484
+	name="STATE_484"
+
+	history={
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			19405 40 
+		}
+		victory_points = {
+			20052 5 
+		}
+
+	}
+
+	provinces={
+		20049 
+	}
+	manpower=870720
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

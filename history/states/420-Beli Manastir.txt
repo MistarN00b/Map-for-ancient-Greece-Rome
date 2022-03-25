@@ -1,0 +1,23 @@
+
+state={
+	id=420
+	name="STATE_420"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+
+		}
+
+	}
+
+	provinces={
+		710 3847 4157 6579 6825 8409 10140 15335 15353 
+	}
+	manpower=28000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

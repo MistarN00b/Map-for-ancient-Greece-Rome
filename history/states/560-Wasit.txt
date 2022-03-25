@@ -1,0 +1,26 @@
+
+state={
+	id=560
+	name="STATE_560"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16846 3 
+		}
+
+	}
+
+	provinces={
+		299 902 2620 3266 6044 7370 8492 9130 10284 10353 11125 16828 16846 16857 16880 16920 16966 
+	}
+	manpower=27864
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

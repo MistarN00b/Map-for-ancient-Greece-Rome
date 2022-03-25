@@ -1,0 +1,26 @@
+
+state={
+	id=651
+	name="STATE_651"
+
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			15941 5 
+		}
+
+	}
+
+	provinces={
+		3310 11592 15894 15919 15941 15968 
+	}
+	manpower=53986
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

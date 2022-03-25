@@ -1,0 +1,26 @@
+
+state={
+	id=674
+	name="STATE_674"
+
+	history={
+		owner = SRD
+		add_core_of = SRD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			5474 3 
+		}
+
+	}
+
+	provinces={
+		619 5474 15662 15701 15722 15746 15774 15813 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

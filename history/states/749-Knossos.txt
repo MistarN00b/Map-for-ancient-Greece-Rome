@@ -1,0 +1,30 @@
+state={
+	id=749
+	name="STATE_749"
+	provinces={
+		899 11636 16705 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = KNO
+		add_core_of = KNO
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			16705 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = {
+			11636 3 
+		}
+		victory_points = {
+			16705 5 
+		}
+	}
+}

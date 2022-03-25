@@ -1,0 +1,27 @@
+
+state={
+	id=666
+	name="STATE_666"
+
+	history={
+		owner = SAB
+		add_core_of = SAB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			19485 5 
+		}
+
+	}
+
+	provinces={
+		8862 15868 15884 19485 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,19 @@
+state={
+	id=744
+	name="STATE_744"
+	provinces={
+		277 4343 7077 15575 15599 
+	}
+	manpower=32000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+}

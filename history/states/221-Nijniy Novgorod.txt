@@ -1,0 +1,25 @@
+
+state={
+	id=221
+	name="STATE_221"
+
+	history={
+		owner=GEO
+		add_core_of=GEO
+		buildings = {
+			infrastructure = 3
+			dockyard=1
+
+		}
+		victory_points = {
+			14580 3 
+		}
+	}
+
+	provinces={
+		827 1918 4215 6844 7176 11177 11433 14485 14515 14533 14580 14621 14636 14669 
+	}
+	manpower=16354
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

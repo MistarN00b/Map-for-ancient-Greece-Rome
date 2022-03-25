@@ -1,0 +1,26 @@
+state={
+	id=743
+	name="STATE_743"
+	provinces={
+		4490 5756 7443 8694 9698 15521 15549 15579 
+	}
+	manpower=72000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = TRB
+		add_core_of = TRB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4490 5 
+		}
+		victory_points = {
+			15579 5 
+		}
+	}
+}

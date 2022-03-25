@@ -1,0 +1,27 @@
+
+state={
+	id=588
+	name="STATE_588"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 6
+			5308 = {
+				naval_base = 2
+
+			}
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		3455 3474 3823 5308 8601 16741 16752 
+	}
+	manpower=180000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

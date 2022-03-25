@@ -1,0 +1,22 @@
+
+state={
+	id=38
+	name="STATE_38"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		10242 10894 15287 20265 
+	}
+	manpower=9000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

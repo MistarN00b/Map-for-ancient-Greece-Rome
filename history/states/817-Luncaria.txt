@@ -1,0 +1,23 @@
+state={
+	id=817
+	name="STATE_817"
+	provinces={
+		278 368 1509 2120 6154 7026 8857 15833 15870 15890 15945 15978 15999 
+	}
+	manpower=52721
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		victory_points={
+			1509 5
+		}
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=776
+	name="STATE_776"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			8596 2 
+		}
+
+	}
+
+	provinces={
+		697 1507 4474 6917 8596 10831 15554 15591 15619 19740 
+	}
+	manpower=23375
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

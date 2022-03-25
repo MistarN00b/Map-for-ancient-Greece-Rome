@@ -1,0 +1,25 @@
+state={
+	id=809
+	name="STATE_809"
+	provinces={
+		417 2644 6557 9818 10588 14895 14940 
+	}
+	manpower=19873
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+			14940 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			9818 3 
+		}
+	}
+}

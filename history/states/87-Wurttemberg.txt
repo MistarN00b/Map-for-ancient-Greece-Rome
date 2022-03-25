@@ -1,0 +1,37 @@
+
+state={
+	id=87
+	name="STATE_87"
+	resources={
+		aluminium=11.000
+	}
+
+	history={
+		owner=FRA
+		add_core_of=FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			11304 5 
+		}
+		victory_points = {
+			8704 2 
+		}
+		victory_points = {
+			14671 1 
+		}
+		victory_points = {
+			7925 3 
+		}
+	}
+
+	provinces={
+		89 501 2065 4483 4904 6546 7057 7925 8100 8222 8502 8704 10143 10740 11213 11275 11304 11318 14578 14583 14602 14628 14671 14676 14733 14745 14764 14766 
+	}
+	manpower=51784
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

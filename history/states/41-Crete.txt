@@ -1,0 +1,34 @@
+
+state={
+	id=41
+	name="STATE_41"
+
+	history={
+		owner = IER
+		add_core_of = IER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			9168 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			9186 5 
+		}
+		victory_points = {
+			7944 2 
+		}
+
+	}
+
+	provinces={
+		7944 9186 10707 16718 
+	}
+	manpower=87000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

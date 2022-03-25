@@ -1,0 +1,30 @@
+
+state={
+	id=630
+	name="STATE_630"
+
+	history={
+		owner = ROR
+		add_core_of = ROR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard=1
+
+		}
+		victory_points = {
+			15996 5 
+		}
+		victory_points = {
+			15962 10 
+		}
+
+	}
+
+	provinces={
+		7089 15962 15996 
+	}
+	manpower=86934
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

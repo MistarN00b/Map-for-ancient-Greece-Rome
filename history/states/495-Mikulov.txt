@@ -1,0 +1,21 @@
+
+state={
+	id=495
+	name="STATE_495"
+
+	history={
+		buildings = {
+			infrastructure = 8
+			anti_air_building = 1
+
+		}
+
+	}
+
+	provinces={
+		2736 3350 3672 9043 10302 10728 14574 14610 14623 14650 14734 
+	}
+	manpower=254700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=456
+	name="STATE_456"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		608 1540 1928 3114 3145 4963 6181 6266 6528 7556 8307 8920 9898 11166 15080 15132 15216 15219 15229 15238 15259 15278 15282 15292 15325 
+	}
+	manpower=117258
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

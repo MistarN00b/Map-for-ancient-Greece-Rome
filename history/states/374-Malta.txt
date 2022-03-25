@@ -1,0 +1,21 @@
+state={
+	id=374
+	name="STATE_374"
+	provinces={
+		16733 17406 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category = small_island
+	history= {
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+			}
+		victory_points={
+			16733 5
+		}
+	}
+}

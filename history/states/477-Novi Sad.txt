@@ -1,0 +1,20 @@
+
+state={
+	id=477
+	name="STATE_477"
+
+	history={
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		3218 4695 7006 7578 9396 15301 
+	}
+	manpower=125390
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

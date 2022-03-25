@@ -1,0 +1,23 @@
+state={
+	id=720
+	name="STATE_720"
+	provinces={
+		7487 9774 16144 19480 
+	}
+	manpower=41673
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SMM
+		add_core_of = SMM
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			19480 10
+		}
+	}
+}

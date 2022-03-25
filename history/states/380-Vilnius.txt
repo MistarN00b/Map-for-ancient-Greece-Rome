@@ -1,0 +1,25 @@
+
+state={
+	id=380
+	name="STATE_380"
+
+	history={
+		owner=MOR
+		add_core_of=MOR
+		buildings = {
+			infrastructure = 3
+			16732 = { naval_base = 2 }
+
+		}
+		victory_points={
+			16732 5
+		}
+	}
+
+	provinces={
+		4178 5570 16726 16732 
+	}
+	manpower=54327
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

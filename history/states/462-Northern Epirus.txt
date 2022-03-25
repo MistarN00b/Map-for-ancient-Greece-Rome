@@ -1,0 +1,26 @@
+
+state={
+	id=462
+	name="STATE_462"
+
+	history={
+		owner = EPI
+		add_core_of = EPI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			265 3 
+		}
+
+	}
+
+	provinces={
+		265 5780 8490 10615 16213 16241 
+	}
+	manpower=126000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

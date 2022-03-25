@@ -1,0 +1,23 @@
+
+state={
+	id=759
+	name="STATE_759"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1453 6369 7204 8670 15154 15186 15195 20072 20167 20177 
+	}
+	manpower=58000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

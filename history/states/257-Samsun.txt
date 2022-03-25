@@ -1,0 +1,49 @@
+
+state={
+	id=257
+	name="STATE_257"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			15538 1 
+		}
+		victory_points = {
+			4931 1 
+		}
+		victory_points = {
+			15667 2 
+		}
+		victory_points = {
+			9956 1 
+		}
+		victory_points = {
+			8639 1 
+		}
+		victory_points = {
+			5524 3 
+		}
+		victory_points = {
+			3282 1 
+		}
+		victory_points = {
+			8913 3 
+		}
+		victory_points = {
+			15588 1 
+		}
+
+	}
+
+	provinces={
+		1638 2368 2727 3461 3803 4096 4209 4315 4931 4949 5524 5790 6431 6501 6885 7148 7187 7676 7678 7861 8619 8639 8643 9044 9378 9655 9956 10583 11626 15402 15462 15473 15498 15509 15535 15536 15538 15553 15571 15601 15630 15667 15678 15730 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

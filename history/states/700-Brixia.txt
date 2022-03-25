@@ -1,0 +1,24 @@
+state={
+	id=700
+	name="STATE_700"
+	provinces={
+		3948 5545 5857 15316 20158 20162 20163 
+	}
+	manpower=110000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			20163 5 
+		}
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=503
+	name="STATE_503"
+
+	history={
+		owner = SMM
+		add_core_of = SMM
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			2237 5 
+		}
+
+	}
+
+	provinces={
+		2237 6610 
+	}
+	manpower=38091
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

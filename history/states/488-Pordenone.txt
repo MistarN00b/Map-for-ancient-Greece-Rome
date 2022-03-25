@@ -1,0 +1,26 @@
+
+state={
+	id=488
+	name="STATE_488"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			15248 3 
+		}
+
+	}
+
+	provinces={
+		30 10701 15248 20266 
+	}
+	manpower=47000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

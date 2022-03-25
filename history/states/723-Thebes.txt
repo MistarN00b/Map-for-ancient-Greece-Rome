@@ -1,0 +1,25 @@
+state={
+	id=723
+	name="STATE_723"
+	provinces={
+		8242 8431 16442 
+	}
+	manpower=103000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	
+	history={
+		owner = BOE
+		add_core_of = BOE
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+		}
+		victory_points = {
+			8242 5 
+		}
+
+	}
+}

@@ -1,0 +1,24 @@
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		7287 9243 9762 10842 15205 15244 15250 15271 15306 15326 
+	}
+	manpower=41000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			15250 5 
+		}
+
+	}
+}

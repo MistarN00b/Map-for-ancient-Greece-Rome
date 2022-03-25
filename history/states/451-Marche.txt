@@ -1,0 +1,23 @@
+
+state={
+	id=451
+	name="STATE_451"
+
+	history={
+		owner = UMB
+		add_core_of = UMB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		7131 8288 8819 8853 15744 15769 15798 19486 20251 
+	}
+	manpower=52341
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

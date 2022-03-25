@@ -1,0 +1,27 @@
+
+state={
+	id=597
+	name="STATE_597"
+
+	history={
+		owner = ATI
+		add_core_of = ATI
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex=1
+
+		}
+		victory_points = {
+			5637 5 
+		}
+
+	}
+
+	provinces={
+		350 4123 5637 7403 8105 16159 
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

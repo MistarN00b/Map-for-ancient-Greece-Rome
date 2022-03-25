@@ -1,0 +1,26 @@
+
+state={
+	id=313
+	name="STATE_313"
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points={
+			8170 3
+		}
+
+	}
+
+	provinces={
+		1889 3743 5846 6083 7466 7631 8170 9598 11249 
+	}
+	manpower=14632
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

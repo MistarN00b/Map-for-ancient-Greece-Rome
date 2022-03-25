@@ -1,0 +1,28 @@
+
+state={
+	id=239
+	name="STATE_239"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			14757 3 
+		}
+		victory_points = {
+			14912 5 
+		}
+	}
+
+	provinces={
+		541 1197 4454 5651 8071 8540 11474 14757 14784 14818 14834 14853 14863 14912 20214 
+	}
+	manpower=52000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

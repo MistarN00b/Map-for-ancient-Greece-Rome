@@ -1,0 +1,26 @@
+
+state={
+	id=102
+	name="STATE_102"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			5239 5 
+		}
+
+	}
+
+	provinces={
+		26 5239 5332 6196 10788 11121 14971 14998 15110 
+	}
+	manpower=38000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

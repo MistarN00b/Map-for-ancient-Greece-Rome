@@ -1,0 +1,30 @@
+state={
+	id=729
+	name="STATE_729"
+	provinces={
+		1670 6383 15726 15772 15779 15793 15814 
+	}
+	manpower=77000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = TRK
+		add_core_of = TRK
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			6383 1 
+		}
+		victory_points = {
+			15814 2 
+		}
+		victory_points = {
+			15726 1 
+		}
+
+	}
+}

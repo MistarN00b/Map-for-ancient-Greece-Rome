@@ -1,0 +1,26 @@
+
+state={
+	id=659
+	name="STATE_659"
+
+	history={
+		owner = ELE
+		add_core_of = ELE
+		buildings = {
+			infrastructure =4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			6248 5 
+		}
+
+	}
+
+	provinces={
+		2917 6248 16274 16299 
+	}
+	manpower=51813
+	buildings_max_level_factor=1.000
+	state_category=town
+}

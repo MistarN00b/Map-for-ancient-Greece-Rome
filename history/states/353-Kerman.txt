@@ -1,0 +1,29 @@
+
+state={
+	id=353
+	name="STATE_353"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			arms_factory=1
+
+		}
+		victory_points={
+			288 5
+		}
+
+	}
+
+	provinces={
+		288 993 2017 2152 2442 3634 4400 6125 16032 
+	}
+	manpower=59552
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,41 @@
+
+state={
+	id=222
+	name="STATE_222"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16314 2 
+		}
+		victory_points = {
+			3129 3 
+		}
+		victory_points = {
+			16174 1 
+		}
+		victory_points = {
+			7344 2 
+		}
+		victory_points = {
+			1778 1 
+		}
+		victory_points = {
+			15804 5 
+		}
+
+	}
+
+	provinces={
+		458 487 777 1778 2352 2434 2471 3129 3553 4752 5582 6142 6921 7344 15759 15804 16174 16176 16190 16256 16314 16328 16366 
+	}
+	manpower=53922
+	buildings_max_level_factor=1.000
+	state_category=town
+}

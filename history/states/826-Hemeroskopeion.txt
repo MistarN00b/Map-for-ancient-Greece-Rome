@@ -1,0 +1,30 @@
+state={
+	id=826
+	name="STATE_826"
+	provinces={
+		307 1940 3147 10825 16401 
+	}
+	manpower=31523
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex=1
+			arms_factory=1
+			10825 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			10825 5 
+		}
+
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=697
+	name="STATE_697"
+
+	history={
+		owner = SES
+		add_core_of = SES
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			8271 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			15637 5 
+		}
+
+	}
+
+	provinces={
+		7798 7893 8271 15637 19488 
+	}
+	manpower=143872
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,24 @@
+state={
+	id=813
+	name="STATE_813"
+	provinces={
+		1392 1396 1491 4321 9066 9360 9966 10651 14639 14719 14738 18002 
+	}
+	manpower=9342
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			9066 2 
+		}
+		victory_points = {
+			14738 2 
+		}
+	}
+}

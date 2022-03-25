@@ -1,0 +1,30 @@
+
+state={
+	id=642
+	name="STATE_642"
+
+	history={
+		owner = BRU
+		add_core_of = BRU
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			10834 3 
+		}
+		victory_points = {
+			19478 1 
+		}
+
+	}
+
+	provinces={
+		10834 16420 16445 19478 
+	}
+	manpower=41000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=334
+	name="STATE_334"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner=GEO
+		add_core_of=GEO
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+		victory_points = {
+			5892 3 
+		}
+		victory_points = {
+			14821 1 
+		}
+	}
+
+	provinces={
+		370 1671 2191 2450 4049 5757 5892 6350 6596 7152 7848 8509 9724 10132 10942 14807 14821 14900 14934 14953 15063 15116 
+	}
+	manpower=32877
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

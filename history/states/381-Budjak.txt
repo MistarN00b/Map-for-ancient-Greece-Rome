@@ -1,0 +1,38 @@
+
+state={
+	id=381
+	name="STATE_381"
+
+	history={
+		add_core_of = ALB
+		owner = ALB
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+			4527 = {
+				naval_base = 1
+
+			}
+			3022 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			15026 3 
+		}
+		victory_points = {
+			7555 2 
+		}
+
+	}
+
+	provinces={
+		1686 3296 4168 4242 4527 5661 7555 10338 10901 11623 14871 14925 14956 14962 14999 15026 19443 19444 19445 19446 19447 19448 19449 19452 
+	}
+	manpower=53000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=627
+	name="STATE_627"
+
+	history={
+		owner = SRD
+		add_core_of = SRD
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3169 3424 3445 9594 10666 15763 15802 15907 15929 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

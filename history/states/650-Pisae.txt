@@ -1,0 +1,35 @@
+state={
+	id=650
+	name="STATE_650"
+	provinces={
+		2617 4385 8902 10597 10805 20295 20355 
+	}
+	manpower=97391
+	buildings_max_level_factor=1.000
+	state_category=city
+	
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			10597 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			10597 5 
+		}
+		victory_points = {
+			10805 10 
+		}
+		victory_points = {
+			4385 3 
+		}
+	}
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=783
+	name="STATE_783"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+		victory_points = {
+			20108 3 
+		}
+
+	}
+
+	provinces={
+		2253 4771 6359 8073 15416 15494 19799 19811 19814 19815 19821 20108 20111 20112 20113 
+	}
+	manpower=36985
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

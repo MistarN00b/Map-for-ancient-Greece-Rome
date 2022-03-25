@@ -1,0 +1,21 @@
+state={
+	id=580
+	name="STATE_580"
+	provinces={
+		3136 4269 6696 7308 16716 16720 16735 
+	}
+	manpower=160000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			16720 20
+		}
+	}
+}

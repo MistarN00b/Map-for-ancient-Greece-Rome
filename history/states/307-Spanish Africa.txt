@@ -1,0 +1,24 @@
+
+state={
+	id=307
+	name="STATE_307"
+	resources={
+		steel=23.000
+	}
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		324 1437 1906 2149 2577 3425 3525 4927 5305 5501 6879 8570 8930 11534 16719 16730 17407 
+	}
+	manpower=34987
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+}

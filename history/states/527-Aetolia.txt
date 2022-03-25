@@ -1,0 +1,30 @@
+
+state={
+	id=527
+	name="STATE_527"
+
+	history={
+		owner = AEO
+		add_core_of = AEO
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			10180 1 
+		}
+		victory_points = {
+			16446 5 
+		}
+
+	}
+
+	provinces={
+		10 5902 10180 16413 16446 16447 
+	}
+	manpower=98000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

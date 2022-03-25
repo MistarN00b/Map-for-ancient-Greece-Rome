@@ -1,0 +1,26 @@
+
+state={
+	id=402
+	name="STATE_402"
+
+	history={
+		owner=FRA
+		add_core_of=FRA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			8846 3 
+		}
+
+	}
+
+	provinces={
+		4568 6771 6913 7222 7989 8473 8846 11395 14755 14788 14813 14816 14836 14876 
+	}
+	manpower=27653
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

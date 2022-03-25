@@ -1,0 +1,29 @@
+
+state={
+	id=686
+	name="STATE_686"
+
+	history={
+		owner = STY
+		add_core_of = STY
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			4801 5 
+		}
+		victory_points = {
+			16507 3 
+		}
+
+	}
+
+	provinces={
+		4801 16507 16529 
+	}
+	manpower=42000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

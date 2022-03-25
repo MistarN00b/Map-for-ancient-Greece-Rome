@@ -1,0 +1,30 @@
+
+state={
+	id=531
+	name="STATE_531"
+
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			10823 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			10823 5 
+		}
+
+	}
+
+	provinces={
+		10021 10823 
+	}
+	manpower=45783
+	buildings_max_level_factor=1.000
+	state_category=town
+}

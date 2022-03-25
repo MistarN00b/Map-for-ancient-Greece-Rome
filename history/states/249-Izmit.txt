@@ -1,0 +1,56 @@
+
+state={
+	id=249
+	name="STATE_249"
+	resources={
+		chromium=27.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 4
+			15659 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			3530 1 
+		}
+		victory_points = {
+			15649 1 
+		}
+		victory_points = {
+			15646 2 
+		}
+		victory_points = {
+			6247 1 
+		}
+		victory_points = {
+			2757 1 
+		}
+		victory_points = {
+			10115 1 
+		}
+		victory_points = {
+			5684 1 
+		}
+		victory_points = {
+			6942 1 
+		}
+		victory_points = {
+			15846 3 
+		}
+
+	}
+
+	provinces={
+		652 2757 3530 3674 4913 5646 5684 5888 6075 6247 6436 6881 8805 8946 8959 9170 9341 10115 10226 10930 11585 15646 15683 15715 15723 15739 15764 15789 15809 15839 15878 15912 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

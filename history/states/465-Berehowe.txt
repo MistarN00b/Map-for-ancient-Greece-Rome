@@ -1,0 +1,22 @@
+
+state={
+	id=465
+	name="STATE_465"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1586 2992 7369 9930 10754 15252 15275 15378 15403 15423 
+	}
+	manpower=24000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

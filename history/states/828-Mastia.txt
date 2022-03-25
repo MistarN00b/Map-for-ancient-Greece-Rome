@@ -1,0 +1,29 @@
+state={
+	id=828
+	name="STATE_828"
+	provinces={
+		4802 9443 16493 16558 16567 
+	}
+	manpower=28659
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+			16558 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			16558 3 
+		}
+
+	}
+}

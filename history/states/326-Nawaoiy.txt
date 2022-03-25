@@ -1,0 +1,33 @@
+
+state={
+	id=326
+	name="STATE_326"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7605 10 
+		}
+		victory_points = {
+			13429 5 
+		}
+		victory_points = {
+			633 5 
+		}
+
+	}
+
+	provinces={
+		321 345 633 881 1469 1605 1702 1895 2117 2206 2365 2459 2489 2545 3340 3606 5068 5875 5967 6398 6655 6936 6966 7482 7605 7719 7792 8028 8126 8404 8997 9540 9583 9979 10347 10634 10662 11102 11547 13235 13330 13360 13395 13407 13418 13429 13445 13451 13457 13458 13462 13468 13473 13511 13515 13551 13561 13578 13607 13653 
+	}
+	manpower=122611
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

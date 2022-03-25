@@ -1,0 +1,32 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+		victory_points = {
+			2261 3 
+		}
+		victory_points = {
+			9173 2 
+		}
+		victory_points = {
+			9919 1 
+		}
+
+	}
+
+	provinces={
+		349 2261 2795 9173 9832 11190 11596 16707 
+	}
+	manpower=56784
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

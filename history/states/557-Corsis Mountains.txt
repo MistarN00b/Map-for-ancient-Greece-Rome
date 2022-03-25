@@ -1,0 +1,19 @@
+state={
+	id=557
+	name="STATE_557"
+	provinces={
+		344 4392 4740 6569 15936 16000 
+	}
+	manpower=12000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+	
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

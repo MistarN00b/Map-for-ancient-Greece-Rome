@@ -1,0 +1,29 @@
+
+state={
+	id=441
+	name="STATE_441"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+
+		}
+		victory_points = {
+			2676 1 
+		}
+		victory_points = {
+			15053 2
+		}
+
+	}
+
+	provinces={
+		2676 4809 5500 6327 6896 14921 14948 14990 15014 15053 15084 20200 20203 20204 20208 
+	}
+	manpower=45000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=863
+	name="STATE_863"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		52 1722 2192 3078 4112 4461 4681 5206 6177 6502 7274 8817 10166 10659 11512 11540 16824 16840 16845 16854 16868 16871 16883 16898 16908 16955 
+	}
+	manpower=784
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

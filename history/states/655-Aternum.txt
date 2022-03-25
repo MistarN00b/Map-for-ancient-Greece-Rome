@@ -1,0 +1,27 @@
+
+state={
+	id=655
+	name="STATE_655"
+
+	history={
+		owner = FRE
+		add_core_of = FRE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			2785 5 
+		}
+
+	}
+
+	provinces={
+		178 2589 2785 3233 15937 15969 16010 
+	}
+	manpower=62712
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=103
+	name="STATE_103"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner=ALB
+		add_core_of=ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			20280 1 
+		}
+		victory_points = {
+			20276 3 
+		}
+		victory_points = {
+			20279 10 
+		}
+		victory_points = {
+			14979 1 
+		}
+
+	}
+
+	provinces={
+		3751 8680 9254 9320 14824 14851 14906 14936 14979 19400 20276 20279 20280 
+	}
+	manpower=67000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

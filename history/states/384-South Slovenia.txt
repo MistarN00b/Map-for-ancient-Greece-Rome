@@ -1,0 +1,25 @@
+
+state={
+	id=384
+	name="STATE_384"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			19998 3 
+		}
+	}
+
+	provinces={
+		1975 6708 9058 9637 9791 15167 15193 15209 15218 19998 
+	}
+	manpower=31000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

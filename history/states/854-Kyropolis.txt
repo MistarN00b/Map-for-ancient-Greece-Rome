@@ -1,0 +1,27 @@
+state={
+	id=854
+	name="STATE_854"
+	provinces={
+		3903 4501 5118 6221 6635 7273 7797 10268 15347 
+	}
+	manpower=63541
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 5
+			industrial_complex=1
+			arms_factory=1
+			dockyard=1
+			6635 = { naval_base=2}
+
+		}
+		victory_points={
+			6635 10
+		}
+
+	}
+}

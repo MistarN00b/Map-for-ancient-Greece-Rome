@@ -1,0 +1,23 @@
+
+state={
+	id=415
+	name="STATE_415"
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		677 1615 6279 7136 10924 15605 15651 15675 20298 
+	}
+	manpower=47000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=663
+	name="STATE_663"
+
+	history={
+		owner = MAR
+		add_core_of = MAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			10356 5 
+		}
+
+	}
+
+	provinces={
+		3529 8384 10356 10421 20292 
+	}
+	manpower=40891
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

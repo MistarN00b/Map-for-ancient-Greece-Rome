@@ -1,0 +1,23 @@
+state={
+	id=643
+	name="STATE_643"
+	provinces={
+		2307 7192 9868 16517 
+	}
+	manpower=32000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = HIP
+		add_core_of = HIP
+		buildings = {
+			infrastructure = 4
+			industrial_complex=1
+
+		}
+		victory_points = {
+			9868 3
+		}
+	}
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=34
+	name="STATE_34"
+
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+
+		}
+		victory_points = {
+			6443 20 
+		}
+		victory_points = {
+			10029 1 
+		}
+
+	}
+
+	provinces={
+		1151 1603 6443 6852 7762 8867 15607 15629 20356 
+	}
+	manpower=72734
+	buildings_max_level_factor=1.000
+	state_category=town
+}

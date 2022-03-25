@@ -1,0 +1,21 @@
+
+state={
+	id=478
+	name="STATE_478"
+
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1487 2809 4045 4507 8375 8393 8608 9850 10206 14569 14581 14588 14618 20221 20226 
+	}
+	manpower=380000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=355
+	name="STATE_355"
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		victory_points = {
+			16911 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			16911 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1697 2854 3783 4282 4759 8141 16901 16911 16924 16930 
+	}
+	manpower=150000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

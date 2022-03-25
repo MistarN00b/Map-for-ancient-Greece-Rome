@@ -1,0 +1,34 @@
+state={
+	id=859
+	name="STATE_859"
+	provinces={
+		1757 7937 10262 11278 16633 16639 
+	}
+	manpower=36124
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard=1
+			16633 = {
+				naval_base = 2
+
+			}
+		}
+		victory_points = {
+			16633 3 
+		}
+		victory_points = {
+			7937 2 
+		}
+		victory_points = {
+			16639 1 
+		}
+
+	}
+}

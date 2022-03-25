@@ -1,0 +1,26 @@
+
+state={
+	id=189
+	name="STATE_189"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points={
+			8306 3
+		}
+
+	}
+
+	provinces={
+		933 1949 4991 5067 6536 8306 9096 11420 14012 14051 14138 14169 14187 
+	}
+	manpower=20026
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

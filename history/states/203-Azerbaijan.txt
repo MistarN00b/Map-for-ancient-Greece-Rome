@@ -1,0 +1,36 @@
+
+state={
+	id=203
+	name="STATE_203"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory=1
+			10406={naval_base=1}
+
+		}
+		victory_points = {
+			10406 10 
+		}
+		victory_points = {
+			4878 1 
+		}
+		victory_points = {
+			8763 2 
+		}
+	}
+
+	provinces={
+		63 1116 3935 4878 5334 5922 6159 7269 8763 8965 9811 10406 11184 14775 14812 14815 14827 14904 14926 17317 
+	}
+	manpower=51433
+	buildings_max_level_factor=1.000
+	state_category=town
+}

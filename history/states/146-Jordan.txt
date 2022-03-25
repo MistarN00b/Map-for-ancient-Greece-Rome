@@ -1,0 +1,34 @@
+
+state={
+	id=146
+	name="STATE_146"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+
+		}
+		victory_points = {
+			5503 1 
+		}
+		victory_points = {
+			427 3 
+		}
+		victory_points = {
+			539 5 
+		}
+
+	}
+
+	provinces={
+		5 427 539 891 1881 2005 2310 2433 2486 4520 5158 5503 6153 7363 9231 10655 16842 16851 16862 16875 16881 16896 16942 16981 17412 17413 
+	}
+	manpower=92673
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

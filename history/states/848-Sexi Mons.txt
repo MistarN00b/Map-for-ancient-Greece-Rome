@@ -1,0 +1,19 @@
+state={
+	id=848
+	name="STATE_848"
+	provinces={
+		5098 15648 19767 
+	}
+	manpower=2077
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+	
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

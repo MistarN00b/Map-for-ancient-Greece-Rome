@@ -1,0 +1,23 @@
+
+state={
+	id=275
+	name="STATE_275"
+
+	history={
+		add_core_of = EGY
+		owner = EGY
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		537 731 1042 1165 1289 1874 2111 2276 2598 2919 3219 3645 4335 4373 4737 4766 4861 5144 5437 5484 6082 6152 6166 6484 6627 7860 9138 9835 9999 10128 10365 10795 11464 16946 16987 17013 17100 17152 
+	}
+	manpower=2531
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

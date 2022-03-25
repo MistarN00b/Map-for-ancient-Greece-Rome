@@ -1,0 +1,26 @@
+
+state={
+	id=671
+	name="STATE_671"
+
+	history={
+		owner = AKA
+		add_core_of = AKA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4705 3 
+		}
+
+	}
+
+	provinces={
+		4705 16428 17356 
+	}
+	manpower=47000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=150
+	name="STATE_150"
+	resources={
+		chromium=6.000
+		aluminium=9.000
+	}
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			19425 5 
+		}
+
+	}
+
+	provinces={
+		4698 4728 6874 7936 10976 15518 15542 15570 19407 19408 19409 19410 19425 19426 20087 20229 20231 20234 
+	}
+	manpower=83000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

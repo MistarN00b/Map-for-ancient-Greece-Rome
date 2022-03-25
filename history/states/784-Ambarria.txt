@@ -1,0 +1,21 @@
+state={
+	id=784
+	name="STATE_784"
+	provinces={
+		4978 8488 15141 19911 19929 19937 
+	}
+	manpower=16543
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner=FRA
+		add_core_of=FRA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			19929 2 
+		}
+	}
+}

@@ -1,0 +1,29 @@
+state={
+	id=861
+	name="STATE_861"
+	provinces={
+		1146 4608 5050 7372 8035 10482 16708 16714 
+	}
+	manpower=87652
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points = {
+			16714 5 
+		}
+		victory_points = {
+			5050 3 
+		}
+		victory_points = {
+			16708 2 
+		}
+	}
+}

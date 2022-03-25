@@ -1,0 +1,21 @@
+
+state={
+	id=247
+	name="STATE_247"
+
+	history={
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		441 2419 4195 4607 6322 6638 7075 7632 8077 14196 14233 14265 14275 14353 14373 14400 
+	}
+	manpower=820000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

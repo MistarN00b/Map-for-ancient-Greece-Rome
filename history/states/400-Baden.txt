@@ -1,0 +1,29 @@
+
+state={
+	id=400
+	name="STATE_400"
+
+	history={
+		buildings = {
+			infrastructure = 8
+
+		}
+		victory_points = {
+			7390 5 
+		}
+		victory_points = {
+			7444 1 
+		}
+		victory_points = {
+			14659 3 
+		}
+
+	}
+
+	provinces={
+		4959 6227 7390 7422 7457 10066 10712 14659 14717 14782 14848 
+	}
+	manpower=1017370
+	buildings_max_level_factor=1.000
+	state_category=city
+}

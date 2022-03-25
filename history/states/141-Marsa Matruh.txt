@@ -1,0 +1,25 @@
+
+state={
+	id=141
+	name="STATE_141"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points={
+			16944 3
+		}
+
+	}
+
+	provinces={
+		1959 2361 3755 4478 5293 5588 6510 7689 8629 16907 16918 16919 16927 16944 
+	}
+	manpower=21984
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

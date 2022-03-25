@@ -1,0 +1,28 @@
+state={
+	id=618
+	name="STATE_618"
+	provinces={
+		2893 3650 9776 9802 10951 15875 15898 15960 
+	}
+	manpower=80000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+		}
+		victory_points = {
+			3650 5 
+		}
+		victory_points = {
+			9802 1 
+		}
+		victory_points = {
+			10951 1 
+		}
+	}
+}

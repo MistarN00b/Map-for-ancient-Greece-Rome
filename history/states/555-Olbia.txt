@@ -1,0 +1,22 @@
+state={
+	id=555
+	name="STATE_555"
+	provinces={
+		1785 3992 9945 16140 16147 17340 
+	}
+	manpower=27842
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+			dockyard=1
+		}
+		victory_points={
+			16147 3
+		}
+	}
+}

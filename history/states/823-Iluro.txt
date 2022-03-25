@@ -1,0 +1,19 @@
+state={
+	id=823
+	name="STATE_823"
+	provinces={
+		7890 8197 10726 19723 19733 
+	}
+	manpower=2673
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+	
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+}

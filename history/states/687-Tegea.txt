@@ -1,0 +1,25 @@
+state={
+	id=687
+	name="STATE_687"
+	provinces={
+		16556 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = TEG
+		add_core_of = TEG
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16556 5 
+		}
+
+	}
+}

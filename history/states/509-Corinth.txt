@@ -1,0 +1,32 @@
+
+state={
+	id=509
+	name="STATE_509"
+
+	history={
+		owner = KRT
+		add_core_of = KRT
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 2
+			602 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			602 10 
+		}
+
+	}
+
+	provinces={
+		602 1226 3580 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

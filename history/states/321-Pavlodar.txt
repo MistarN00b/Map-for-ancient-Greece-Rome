@@ -1,0 +1,33 @@
+
+state={
+	id=321
+	name="STATE_321"
+	resources={
+		chromium=44.000
+		aluminium=30.000
+		steel=50.000
+		tungsten=14.000
+	}
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points={
+			1377 2
+		}
+		victory_points={
+			9169 2
+		}
+
+	}
+
+	provinces={
+		1377 1629 4281 4409 4812 6974 7649 8430 9169 9450 14483 14484 14521 14589 14607 14642 14655 14678 
+	}
+	manpower=18433
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

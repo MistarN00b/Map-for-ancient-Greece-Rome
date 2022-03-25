@@ -1,0 +1,30 @@
+
+state={
+	id=556
+	name="STATE_556"
+
+	history={
+		owner = ETR
+		add_core_of = ETR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			9539 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			9539 5 
+		}
+
+	}
+
+	provinces={
+		1948 8836 9539 10163 10760 11248 11282 15882 15995 
+	}
+	manpower=63874
+	buildings_max_level_factor=1.000
+	state_category=town
+}

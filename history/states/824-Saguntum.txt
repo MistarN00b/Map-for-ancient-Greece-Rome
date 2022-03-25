@@ -1,0 +1,28 @@
+
+state={
+	id=824
+	name="STATE_824"
+
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			16234 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			16234 5 
+		}
+	}
+
+	provinces={
+		2076 2407 6523 16219 16236 16262 
+	}
+	manpower=55367
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

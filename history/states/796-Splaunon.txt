@@ -1,0 +1,30 @@
+
+state={
+	id=796
+	name="STATE_796"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			15483 5 
+		}
+		victory_points = {
+			20233 1 
+		}
+
+	}
+
+	provinces={
+		3679 7328 7638 9731 11473 15445 15450 15483 15487 15592 19412 19413 20094 20233 
+	}
+	manpower=74000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

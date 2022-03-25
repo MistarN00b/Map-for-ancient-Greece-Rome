@@ -1,0 +1,27 @@
+
+state={
+	id=742
+	name="STATE_742"
+
+	history={
+		owner = TRK
+		add_core_of = TRK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard=1
+
+		}
+		victory_points = {
+			11052 1 
+		}
+
+	}
+
+	provinces={
+		1804 5478 6068 7926 9324 9494 11052 11067 15620 15645 
+	}
+	manpower=89000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

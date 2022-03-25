@@ -1,0 +1,31 @@
+
+state={
+	id=111
+	name="STATE_111"
+	resources={
+		oil=70.000
+	}
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			7674 2 
+		}
+		victory_points = {
+			4620 3 
+		}
+	}
+
+	provinces={
+		275 304 2110 3008 3294 3805 3944 4537 4620 5064 5590 7668 7674 8030 8137 8397 8666 9176 10005 10495 11025 15170 15197 15236 20306 
+	}
+	manpower=52000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

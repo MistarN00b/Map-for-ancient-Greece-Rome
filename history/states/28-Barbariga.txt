@@ -1,0 +1,25 @@
+
+state={
+	id=28
+	name="STATE_28"
+
+	history={
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			16263 5 
+		}
+
+	}
+
+	provinces={
+		7297 7537 8440 8688 9421 10116 16263 16303 16323 16386 
+	}
+	manpower=63579
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

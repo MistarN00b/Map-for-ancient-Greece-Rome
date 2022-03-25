@@ -1,0 +1,23 @@
+state={
+	id=728
+	name="STATE_728"
+	provinces={
+		5701 10465 15957 
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ABD
+		add_core_of = ABD
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+
+		}
+		victory_points = {
+			15957 3 
+		}
+	}
+}

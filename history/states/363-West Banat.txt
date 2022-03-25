@@ -1,0 +1,32 @@
+
+state={
+	id=363
+	name="STATE_363"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points = {
+			3048 1 
+		}
+		victory_points = {
+			9672 2 
+		}
+		victory_points = {
+			19995 5 
+		}
+
+	}
+
+	provinces={
+		3048 3827 7819 8246 8342 9497 9672 11100 11144 15225 15357 15381 15397 19995 20237 20238 20239 20240 
+	}
+	manpower=36000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

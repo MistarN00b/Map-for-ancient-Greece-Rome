@@ -1,0 +1,29 @@
+
+state={
+	id=667
+	name="STATE_667"
+
+	history={
+		owner = UMB
+		add_core_of = UMB
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+
+		}
+		victory_points = {
+			10911 5 
+		}
+		victory_points = {
+			15733 3 
+		}
+
+	}
+
+	provinces={
+		3144 8340 10072 10911 10959 20252 20253 
+	}
+	manpower=65788
+	buildings_max_level_factor=1.000
+	state_category=town
+}

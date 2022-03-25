@@ -1,0 +1,26 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = AMP
+		add_core_of = AMP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4303 5 
+		}
+
+	}
+
+	provinces={
+		4303 6765 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

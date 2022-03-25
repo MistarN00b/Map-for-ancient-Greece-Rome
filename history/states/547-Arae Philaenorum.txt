@@ -1,0 +1,23 @@
+state={
+	id=547
+	name="STATE_547"
+	provinces={
+		96 703 813 3076 3128 3196 5707 5823 5865 6809 9711 9934 10621 10816 17035 17037 17044 17049 17058 17089 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 4
+			industrial_complex=2
+		}
+		victory_points={
+			5707 5
+		}
+
+	}
+}

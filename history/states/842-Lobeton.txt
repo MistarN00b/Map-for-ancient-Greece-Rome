@@ -1,0 +1,24 @@
+state={
+	id=842
+	name="STATE_842"
+	provinces={
+		4212 4814 5056 6030 7179 8847 16155 16183 16191 16196 16232 
+	}
+	manpower=39643
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			arms_factory = 1
+			infrastructure = 3
+
+		}
+		victory_points = {
+			16183 3 
+		}
+
+	}
+}

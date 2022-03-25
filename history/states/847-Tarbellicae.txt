@@ -1,0 +1,30 @@
+
+state={
+	id=847
+	name="STATE_847"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			19778 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			19777 3 
+		}
+
+	}
+
+	provinces={
+		1292 7028 9590 9886 11060 15590 15635 15661 19761 19763 19769 19774 19777 19778 19787 
+	}
+	manpower=23564
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

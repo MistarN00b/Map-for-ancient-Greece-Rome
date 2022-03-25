@@ -1,0 +1,37 @@
+
+state={
+	id=73
+	name="STATE_73"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner=ITA
+		add_core_of=ITA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			692 1 
+		}
+		victory_points = {
+			20051 3 
+		}
+		victory_points = {
+			14769 1 
+		}
+		victory_points = {
+			14837 1 
+		}
+	}
+
+	provinces={
+		699 3414 5213 6025 6890 10134 10248 10940 14769 14799 14811 14837 14839 14866 14882 19405 20051 20052 20210 20211 20212 20285 
+	}
+	manpower=64000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=158
+	name="STATE_158"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			6477 3 
+		}
+		victory_points = {
+			15273 2 
+		}
+		victory_points = {
+			9490 2 
+		}
+	}
+
+	provinces={
+		1161 2305 9419 9490 15345 15360 15400 15417 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

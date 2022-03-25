@@ -1,0 +1,23 @@
+state={
+	id=577
+	name="STATE_577"
+	provinces={
+		4285 5456 16844 
+	}
+	manpower=213985
+	buildings_max_level_factor=1.000
+	state_category=city
+	
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			dockyard=1
+		}
+		victory_points = {
+			4285 10 
+		}
+	}
+}

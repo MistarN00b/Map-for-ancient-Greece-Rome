@@ -1,0 +1,30 @@
+
+state={
+	id=522
+	name="STATE_522"
+
+	history={
+		owner = LYN
+		add_core_of = LYN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			4110 5 
+		}
+		victory_points = {
+			6652 5
+		}
+
+	}
+
+	provinces={
+		4110 5037 6652 6736 8750 9047 15987 
+	}
+	manpower=97000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

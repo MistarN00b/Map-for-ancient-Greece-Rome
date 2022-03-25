@@ -1,0 +1,30 @@
+
+state={
+	id=348
+	name="STATE_348"
+	resources={
+		oil=8.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			3470 15 
+		}
+
+	}
+
+	provinces={
+		100 137 1550 3015 3470 3550 3573 4205 4217 5668 7425 7491 10002 10238 16150 16287 16313 16341 16389 
+	}
+	manpower=85673
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

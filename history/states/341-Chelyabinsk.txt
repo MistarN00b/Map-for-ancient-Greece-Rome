@@ -1,0 +1,33 @@
+
+state={
+	id=341
+	name="STATE_341"
+	resources={
+		chromium=44.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			76 3 
+		}
+		victory_points = {
+			14313 3 
+		}
+
+	}
+
+	provinces={
+		76 838 1069 1535 1911 3381 3545 3874 4549 4656 5693 6276 6823 7161 7595 8796 9363 9905 10830 11191 14232 14310 14313 14343 14361 14362 14376 14388 14406 14409 14415 14422 14427 14428 14434 14446 14451 14502 14530 
+	}
+	manpower=29674
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

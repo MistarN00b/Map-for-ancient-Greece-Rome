@@ -1,0 +1,30 @@
+
+state={
+	id=781
+	name="STATE_781"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			19765 5 
+		}
+		victory_points = {
+			7060 2 
+		}
+
+	}
+
+	provinces={
+		5255 5271 7060 10864 11229 15566 15589 15608 19764 19765 19773 19780 19781 19783 19788 19793 19796 19797 20107 
+	}
+	manpower=41541
+	buildings_max_level_factor=1.000
+	state_category=town
+}

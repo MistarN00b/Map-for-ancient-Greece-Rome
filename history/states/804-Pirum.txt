@@ -1,0 +1,24 @@
+state={
+	id=804
+	name="STATE_804"
+	provinces={
+		505 3502 4806 7391 7597 11186 11566 15281 15290 15299 15324 15330 20307 20308 20309 20310 20311 20312 20313 
+	}
+	manpower=62000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			arms_factory=1
+			industrial_complex=1
+
+		}
+		victory_points = {
+			11566 10 
+		}
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=851
+	name="STATE_851"
+	provinces={
+		1797 3986 5751 8116 9618 16406 
+	}
+	manpower=142212
+	buildings_max_level_factor=1.000
+	state_category=city
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 6
+			industrial_complex=2
+			arms_factory=1
+
+		}
+		victory_points={
+			1797 50
+		}
+		victory_points={
+			8116 5
+		}
+
+	}
+}

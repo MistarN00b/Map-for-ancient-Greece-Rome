@@ -1,0 +1,22 @@
+state={
+	id=672
+	name="STATE_672"
+	provinces={
+		3702 10528 16357 
+	}
+	manpower=57000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = AMB
+		add_core_of = AMB
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			10528 3 
+		}
+	}
+}

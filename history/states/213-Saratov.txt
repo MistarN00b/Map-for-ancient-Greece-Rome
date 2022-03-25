@@ -1,0 +1,21 @@
+
+state={
+	id=213
+	name="STATE_213"
+
+	history={
+		owner=GEO
+		add_core_of=GEO
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1419 2281 2426 3217 4304 6540 6590 6682 6806 7063 7485 8528 8703 9034 9313 11193 14847 14850 15000 15087 15111 15184 15202 15233 
+	}
+	manpower=4172
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

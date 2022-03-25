@@ -1,0 +1,31 @@
+
+state={
+	id=77
+	name="STATE_77"
+
+	history={
+		owner = SPR
+		add_core_of = SPR
+		buildings = {
+			industrial_complex = 1
+			dockyard=1
+			infrastructure = 4
+			10335 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			10355 3 
+		}
+
+	}
+
+	provinces={
+		418 8684 9365 10335 11445 16348 16378 16402 17354 
+	}
+	manpower=41325
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

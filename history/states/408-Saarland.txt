@@ -1,0 +1,27 @@
+state={
+	id=408
+	name="STATE_408"
+	provinces={
+		3312 3363 14475 19674 19676 
+	}
+	
+	history={
+		
+		
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		victory_points = {
+			3363 10 
+		}
+		victory_points = {
+			14475 1 
+		}
+	}
+	
+	manpower=756934
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

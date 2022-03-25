@@ -1,0 +1,36 @@
+
+state={
+	id=519
+	name="STATE_519"
+
+	history={
+		owner = NES
+		add_core_of = NES
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			17379 = {
+				naval_base = 2
+
+			}
+			16488 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			17397 5 
+		}
+
+	}
+
+	provinces={
+		8808 16488 17365 17370 17373 17379 17380 17384 17385 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

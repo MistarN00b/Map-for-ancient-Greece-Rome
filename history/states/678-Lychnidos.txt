@@ -1,0 +1,27 @@
+state={
+	id=678
+	name="STATE_678"
+	provinces={
+		766 8719 8795 9454 
+	}
+	manpower=33000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = LYN
+		add_core_of = LYN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			8719 3 
+		}
+		victory_points = {
+			9454 3 
+		}
+
+	}
+}

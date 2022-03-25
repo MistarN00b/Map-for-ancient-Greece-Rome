@@ -1,0 +1,21 @@
+
+state={
+	id=227
+	name="STATE_227"
+
+	history={
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		44 80 335 466 517 577 782 864 1082 1084 1239 1250 1369 1723 1775 2148 2213 2294 3360 3405 3764 3873 4405 4983 5381 6296 7420 7673 8023 8267 8331 8952 9843 10326 10381 11056 11522 13502 13557 13615 13627 13710 13832 13896 
+	}
+	manpower=7352
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

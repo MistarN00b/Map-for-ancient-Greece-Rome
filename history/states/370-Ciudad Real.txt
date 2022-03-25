@@ -1,0 +1,21 @@
+
+state={
+	id=370
+	name="STATE_370"
+
+	history={
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		140 1991 2061 3742 4841 5398 7069 7463 10292 10485 11137 16235 16243 16337 16373 16409 
+	}
+	manpower=526903
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

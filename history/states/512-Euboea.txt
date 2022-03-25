@@ -1,0 +1,32 @@
+state={
+	id=512
+	name="STATE_512"
+	provinces={
+		3862 3929 9397 16416 
+	}
+	manpower=145000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+		history={
+		owner = EUB
+		add_core_of = EUB
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			16416 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			16416 5 
+		}
+		victory_points = {
+			9397 5
+		}
+	}
+}

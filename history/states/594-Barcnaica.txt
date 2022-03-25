@@ -1,0 +1,21 @@
+state={
+	id=594
+	name="STATE_594"
+	provinces={
+		1755 2912 3889 4617 10888 16992 17019 
+	}
+	manpower=3945
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+	
+	history={
+		owner = CYR
+		add_core_of = CYR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+}

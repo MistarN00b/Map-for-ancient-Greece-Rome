@@ -1,0 +1,39 @@
+state={
+	id=751
+	name="STATE_751"
+	provinces={
+		3322 6172 7513 16711 
+	}
+	manpower=97000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	
+	history={
+		owner = PYH
+		add_core_of = PYH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			16711 = {
+				naval_base = 1
+
+			}
+			6172 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			16711 3 
+		}
+		victory_points = {
+			6172 5 
+		}
+		victory_points = {
+			7513 1 
+		}
+	}
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=480
+	name="STATE_480"
+
+	history={
+		owner = DAR
+		add_core_of = DAR
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		783 5408 11394 15799 15837 
+	}
+	manpower=28000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

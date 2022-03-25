@@ -1,0 +1,27 @@
+state={
+	id=721
+	name="STATE_721"
+	provinces={
+		862 9978 16178 16198 
+	}
+	manpower=63451
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	
+	history={
+		owner = MET
+		add_core_of = MET
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			862 3 
+		}
+		victory_points = {
+			9978 2 
+		}
+	}
+}

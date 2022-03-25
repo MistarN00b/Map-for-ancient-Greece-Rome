@@ -1,0 +1,27 @@
+
+state={
+	id=549
+	name="STATE_549"
+
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			11138 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1219 2930 3249 3415 4375 5486 5764 6372 7818 8977 11138 16690 16691 16704 16717 
+	}
+	manpower=160000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

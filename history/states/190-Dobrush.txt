@@ -1,0 +1,22 @@
+
+state={
+	id=190
+	name="STATE_190"
+
+	history={
+		owner=SOV
+		add_core_of=SOV
+		buildings = {
+			infrastructure = 3
+			dockyard=1
+
+		}
+	}
+
+	provinces={
+		5342 5914 6328 8027 10475 11332 14231 14379 14495 14640 
+	}
+	manpower=19652
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

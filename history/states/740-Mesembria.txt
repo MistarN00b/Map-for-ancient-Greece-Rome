@@ -1,0 +1,30 @@
+
+state={
+	id=740
+	name="STATE_740"
+
+	history={
+		owner = BUL
+		add_core_of = BUL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			5525 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			5525 5 
+		}
+
+	}
+
+	provinces={
+		916 5525 9732 15550 15600 
+	}
+	manpower=54000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

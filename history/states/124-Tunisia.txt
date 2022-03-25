@@ -1,0 +1,26 @@
+
+state={
+	id=124
+	name="STATE_124"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1506 1655 6210 7219 8078 16764 16775 16776 16793 
+	}
+	manpower=190000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

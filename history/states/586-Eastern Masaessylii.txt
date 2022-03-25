@@ -1,0 +1,18 @@
+state={
+	id=586
+	name="STATE_586"
+	provinces={
+		31 642 1298 3926 3957 7628 11292 16765 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+}

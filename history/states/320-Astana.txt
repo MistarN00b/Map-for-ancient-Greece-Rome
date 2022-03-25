@@ -1,0 +1,27 @@
+
+state={
+	id=320
+	name="STATE_320"
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7496 5 
+		}
+
+	}
+
+	provinces={
+		662 1281 1865 2569 3011 3138 7031 7496 8358 9461 10422 11220 14874 14918 14984 15027 15068 
+	}
+	manpower=83483
+	buildings_max_level_factor=1.000
+	state_category=town
+}

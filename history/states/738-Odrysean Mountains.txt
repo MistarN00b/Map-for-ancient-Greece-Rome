@@ -1,0 +1,20 @@
+state={
+	id=738
+	name="STATE_738"
+	provinces={
+		6586 7987 9145 15663 
+	}
+	manpower=31000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+	
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+}

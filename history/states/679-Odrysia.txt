@@ -1,0 +1,30 @@
+
+state={
+	id=679
+	name="STATE_679"
+
+	history={
+		owner = ODR
+		add_core_of = ODR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			15707 5 
+		}
+		victory_points = {
+			10118 15 
+		}
+
+	}
+
+	provinces={
+		713 2083 6243 7950 9383 10118 15707 
+	}
+	manpower=130000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

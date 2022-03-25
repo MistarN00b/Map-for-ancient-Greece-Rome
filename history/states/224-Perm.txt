@@ -1,0 +1,32 @@
+
+state={
+	id=224
+	name="STATE_224"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = GEO
+		add_core_of = GEO
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex=1
+
+		}
+		victory_points = {
+			14903 5 
+		}
+		victory_points = {
+			2172 1 
+		}
+	}
+
+	provinces={
+		2172 2291 4938 9547 9681 10309 11538 11551 14832 14867 14903 14950 
+	}
+	manpower=54984
+	buildings_max_level_factor=1.000
+	state_category=town
+}

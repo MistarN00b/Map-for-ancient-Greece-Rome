@@ -1,0 +1,62 @@
+
+state={
+	id=251
+	name="STATE_251"
+	resources={
+		chromium=46.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			8068 1 
+		}
+		victory_points = {
+			9372 2 
+		}
+		victory_points = {
+			16382 1 
+		}
+		victory_points = {
+			1842 20 
+		}
+		victory_points = {
+			3902 1 
+		}
+		victory_points = {
+			16553 1 
+		}
+		victory_points = {
+			16489 1 
+		}
+		victory_points = {
+			16471 1 
+		}
+		victory_points = {
+			2559 1 
+		}
+		victory_points = {
+			16370 1 
+		}
+		victory_points = {
+			9561 1 
+		}
+		victory_points = {
+			16399 1 
+		}
+
+	}
+
+	provinces={
+		343 898 1517 1842 2559 3346 3463 3902 4278 5159 5658 6064 6938 8068 9372 9561 9630 10870 10973 11002 11340 16370 16375 16376 16382 16391 16399 16408 16424 16439 16452 16453 16468 16471 16489 16509 16512 16518 16551 16553 
+	}
+	manpower=362689
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=602
+	name="STATE_602"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			10204 3 
+		}
+
+	}
+
+	provinces={
+		635 4059 6140 6188 9289 10204 15714 15816 15847 19406 20105 20106 
+	}
+	manpower=69000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=442
+	name="STATE_442"
+
+	history={
+		owner=ALB
+		add_core_of=ALB
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+
+		}
+		victory_points = {
+			15188 3 
+		}
+
+	}
+
+	provinces={
+		469 3607 4329 6387 8383 15188 15231 15262 15284 15300 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

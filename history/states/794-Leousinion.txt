@@ -1,0 +1,20 @@
+state={
+	id=794
+	name="STATE_794"
+	provinces={
+		8099 15719 15782 20103 20104 
+	}
+	manpower=9000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	impassable=yes
+	
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+}

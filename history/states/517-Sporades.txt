@@ -1,0 +1,28 @@
+state={
+	id=517
+	name="STATE_517"
+	provinces={
+		17346 17347 17348 17349 17350 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	
+	history={
+		owner = ATH
+		add_core_of = ATH
+		buildings = {
+			infrastructure = 2
+			arms_factory = 0
+			industrial_complex = 1
+			17350 = { naval_base = 2 }
+			17348 = { naval_base = 2 }
+
+		}
+		victory_points = {
+			17348 5 }
+		victory_points = {
+			17350 5 
+		}
+	}
+}

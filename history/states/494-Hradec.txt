@@ -1,0 +1,21 @@
+
+state={
+	id=494
+	name="STATE_494"
+
+	history={
+		buildings = {
+			infrastructure = 8
+			anti_air_building = 1
+
+		}
+
+	}
+
+	provinces={
+		240 1201 2309 4026 4936 5736 8546 10032 10492 14534 14596 14696 14725 14726 14756 14772 
+	}
+	manpower=169800
+	buildings_max_level_factor=1.000
+	state_category=town
+}

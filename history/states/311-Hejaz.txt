@@ -1,0 +1,38 @@
+
+state={
+	id=311
+	name="STATE_311"
+
+	history={
+		owner = SAU
+		add_core_of = SAU
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			17103 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			17103 3 
+		}
+		victory_points = {
+			17073 5 
+		}
+		victory_points = {
+			5667 2 
+		}
+
+	}
+
+	provinces={
+		214 322 520 658 1065 1184 1211 1784 2591 2789 3049 3064 3330 3482 3568 3716 4089 4292 4650 5109 5262 5667 5734 7090 7305 8076 9048 9362 9721 9729 10618 11145 11391 16970 16972 16989 17001 17005 17021 17027 17038 17050 17060 17073 17080 17086 17103 17109 17117 17134 17415 17416 17417 17418 
+	}
+	manpower=72314
+	buildings_max_level_factor=1.000
+	state_category=town
+}

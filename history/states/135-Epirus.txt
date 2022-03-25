@@ -1,0 +1,27 @@
+
+state={
+	id=135
+	name="STATE_135"
+
+	history={
+		owner = EPI
+		add_core_of = EPI
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			8872 10 
+		}
+
+	}
+
+	provinces={
+		7473 7889 8872 9610 16334 
+	}
+	manpower=169000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

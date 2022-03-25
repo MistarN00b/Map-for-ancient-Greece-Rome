@@ -1,0 +1,26 @@
+
+state={
+	id=423
+	name="STATE_423"
+
+	history={
+		owner = ALB
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			533 5 
+		}
+
+	}
+
+	provinces={
+		533 3050 7829 8254 10972 15349 15372 15396 15426 20098 20099 20123 20124 
+	}
+	manpower=56000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=648
+	name="STATE_648"
+
+	history={
+		owner = VLS
+		add_core_of = VLS
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			6614 5 
+		}
+
+	}
+
+	provinces={
+		4456 6614 11148 16092 20290 
+	}
+	manpower=65731
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

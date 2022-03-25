@@ -1,0 +1,22 @@
+state={
+	id=760
+	name="STATE_760"
+	provinces={
+		2790 11294 20007 
+	}
+	manpower=21301
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex=1
+		}
+		victory_points = {
+			2790 3
+		}
+	}
+}

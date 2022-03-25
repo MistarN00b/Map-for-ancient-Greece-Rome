@@ -1,0 +1,35 @@
+state={
+	id=747
+	name="STATE_747"
+	provinces={
+		5616 5947 9925 17408 
+	}
+	manpower=95000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = GOR
+		add_core_of = GOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			17408 = {
+				naval_base = 1
+
+			}
+			5616 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			5616 1 
+		}
+		victory_points = {
+			17408 1 
+		}
+	}
+}

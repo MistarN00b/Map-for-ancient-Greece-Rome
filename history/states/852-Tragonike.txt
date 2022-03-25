@@ -1,0 +1,21 @@
+state={
+	id=852
+	name="STATE_852"
+	provinces={
+		118 1155 1565 2942 2947 3489 5367 6448 7388 9506 9542 10285 10323 16394 16414 16423 16430 16449 16497 16505 16513 16538 
+	}
+	manpower=29344
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points={
+			16449 2
+		}
+	}
+}

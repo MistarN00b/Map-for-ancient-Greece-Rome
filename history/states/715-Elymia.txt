@@ -1,0 +1,23 @@
+state={
+	id=715
+	name="STATE_715"
+	provinces={
+		2161 7367 16614 
+	}
+	manpower=35874
+	buildings_max_level_factor=1.000
+	state_category=rural
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			2161 3 
+		}
+
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=629
+	name="STATE_629"
+
+	history={
+		owner = KRO
+		add_core_of = KRO
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			19479 5 
+		}
+		victory_points = {
+			16438 3 
+		}
+
+	}
+
+	provinces={
+		195 7171 16438 16441 16466 19479 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

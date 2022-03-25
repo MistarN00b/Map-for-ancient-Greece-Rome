@@ -1,0 +1,29 @@
+state={
+	id=727
+	name="STATE_727"
+	provinces={
+		825 11090 16039 16120 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=town
+	
+	history={
+		owner = APO
+		add_core_of = APO
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			11090 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			11090 5 
+		}
+
+	}
+}

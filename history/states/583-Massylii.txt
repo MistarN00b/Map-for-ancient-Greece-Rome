@@ -1,0 +1,19 @@
+state={
+	id=583
+	name="STATE_583"
+	provinces={
+		2382 2755 2842 4141 5643 6036 8464 9664
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	
+	history={
+		owner = TUN
+		add_core_of = TUN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+	}
+}

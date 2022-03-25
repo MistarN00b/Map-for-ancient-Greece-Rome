@@ -1,0 +1,39 @@
+
+state={
+	id=268
+	name="STATE_268"
+	resources={
+		oil=27.000
+	}
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			dockyard = 1
+
+		}
+		victory_points = {
+			2697 5 
+		}
+		victory_points = {
+			8155 3 
+		}
+		victory_points = {
+			14221 1 
+		}
+		victory_points = {
+			1308 2 
+		}
+
+	}
+
+	provinces={
+		105 671 969 1202 1308 1831 2124 2466 2697 2745 3942 4097 4522 4699 6667 7045 7259 8155 8385 8403 8462 8659 8698 8700 9017 9415 9943 10507 11380 14170 14209 14221 14249 14262 14291 14294 14344 14457 14476 14538 14549 17311 17312 
+	}
+	manpower=39229
+	buildings_max_level_factor=1.000
+	state_category=town
+}

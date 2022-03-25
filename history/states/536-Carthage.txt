@@ -1,0 +1,30 @@
+state={
+	id=536
+	name="STATE_536"
+	provinces={
+		1890 2127 9466 10295 10530 16653 17404 
+	}
+	manpower=600000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	
+	history={
+		owner = ALG
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 7
+			arms_factory=3
+			industrial_complex = 4
+			dockyard=8
+			10295 = {
+				naval_base = 8
+
+			}
+
+		}
+		victory_points = {
+			10295 20 
+		}
+
+	}
+}

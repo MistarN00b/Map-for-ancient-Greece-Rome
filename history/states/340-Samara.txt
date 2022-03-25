@@ -1,0 +1,22 @@
+
+state={
+	id=340
+	name="STATE_340"
+
+	history={
+		owner=GEO
+		add_core_of=GEO
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		5579 11023 15003 15009 15101 
+	}
+	manpower=922
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}
